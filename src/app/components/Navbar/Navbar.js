@@ -196,7 +196,7 @@ export default function Navbar() {
     aria-label={`${siteTitle.main} ${siteTitle.sub}`}
   >
     <Image
-      src="/fiberglass-logo.webp" // أو webp لو الملف عندك كده
+      src="/Fiberglass-logo.webp" // أو webp لو الملف عندك كده
       alt={`${siteTitle.main} ${siteTitle.sub}`}
       width={150} // عدلي المقاس حسب التصميم
       height={50}
