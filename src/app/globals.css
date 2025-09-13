@@ -1,26 +1,97 @@
+/* globals.css - Tailwind + custom global styles */
+
+/* 1️⃣ Import Tailwind base utilities */
 @import "tailwindcss";
 
+/* 2️⃣ Root variables - colors */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --text-dark: #1A1520;
+  --grey-light: #F5F3F7;
+  --grey-dark: #7A7180;
+  --color-darker: #643b83;
+  --color-primary: #AE75DA;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* 3️⃣ Selection */
+::selection {
+  background-color: var(--color-primary);
+  color: var(--grey-light);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* 4️⃣ Global reset & box-sizing */
+
+*::after,
+*::before {
+ margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
 }
 
+/* 5️⃣ Inline elements */
+span,
+a {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+/* 6️⃣ Body */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  @apply bg-[var(--grey-light)] text-[var(--text-dark)];
+  font-family: 'Roboto Slab', serif;
+  line-height: 1.6;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+/* 7️⃣ Paragraphs */
+p {
+  font-family: 'Roboto Slab', serif;
+  line-height: 1.6;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+/* 8️⃣ Headings */
+h1, h2, h3 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.2rem; }
+
+/* 9️⃣ Container */
+.container {
+  @apply mx-auto w-4/5;
+}
+
+/* 10️⃣ Utilities */
+.d-none { @apply hidden; }
+
+/* 11️⃣ Buttons */
+.btn {
+  @apply border-none px-8 py-4 text-base cursor-pointer rounded;
+  background-color: var(--color-primary);
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: var(--color-darker);
+}
+
+/* 12️⃣ Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
