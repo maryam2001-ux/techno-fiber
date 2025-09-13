@@ -11,16 +11,14 @@ const oswald = Oswald({ subsets: ["latin"], weight: ["400", "700"] });
 
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-
-// ✅ SEO Metadata للـ Layout الأساسي
 export async function generateMetadata() {
   const title =
-    "TechnoFiber Company | الشركة الرائدة في منتجات الألياف الزجاجية (FRP)";
+    "TechnoFiber Company | الشركة الرائدة في منتجات فيبر جلاس (FRP)";
   const description =
-    "TechnoFiber هي شركة رائدة متخصصة في تصنيع وتسويق منتجات الألياف الزجاجية (FRP) عالية الجودة والمتنوعة. الشركة تتميز بحصتها في سوق الـ Moulded Grating في مصر، وهي الوحيدة التي تمتلك خط سحب (Pultrusion Line) كامل لتصنيع مقاطع FRP كبدائل للحديد والألومنيوم.";
+    "TechnoFiber هي شركة رائدة متخصصة في تصنيع وتسويق منتجات فيبر جلاس (FRP) عالية الجودة والمتنوعة. الشركة تُعد الأولى في سوق الـ Moulded Grating في مصر، وتمتلك خط بولتروجين (Pultrusion Line) كامل لتصنيع مقاطع FRP كبدائل للحديد والألومنيوم.";
 
-  const url = "https://www.technofiber.com"; // غيّر للرابط الحقيقي
-  const image = "https://www.technofiber.com/images/og-image.jpg"; // غيّر للصورة الحقيقية
+  const url = "https://www.technofiberegypt.com"; // ✅ رابطك الحقيقي
+  const image = "https://www.technofiberegypt.com/images/og-image.jpg"; // ✅ غير للصورة الحقيقية
 
   return {
     title,
@@ -29,9 +27,10 @@ export async function generateMetadata() {
       "TechnoFiber",
       "FRP Egypt",
       "Fiberglass Egypt",
+      "فيبر جلاس مصر",
       "Moulded Grating",
       "Pultrusion Profiles",
-      "منتجات الألياف الزجاجية",
+      "منتجات فيبر جلاس",
       "بدائل الحديد",
       "بدائل الألومنيوم",
       "شركة FRP مصر",
@@ -75,11 +74,11 @@ export async function generateMetadata() {
     alternates: {
       canonical: url,
       languages: {
-        en: "https://www.technofiber.com/en",
-        ar: "https://www.technofiber.com/ar",
+        en: "https://www.technofiberegypt.com/en",
+        ar: "https://www.technofiberegypt.com/ar",
       },
     },
-    // ✅ إضافة الـ favicon والأيقونات
+    // ✅ favicon والأيقونات
     icons: {
       icon: [
         { url: "/Fiberglass-logo.webp", sizes: "32x32", type: "image/webp" },

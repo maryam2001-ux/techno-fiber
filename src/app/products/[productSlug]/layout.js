@@ -5,7 +5,7 @@ import Script from "next/script";
 export async function generateMetadata() {
   const title = "Fiberglass Products | TechnoFiber";
   const description =
-    "Discover high-quality fiberglass products including grating, handrails, kiosks, manhole covers, tanks, metro components, and playground equipment. Trusted for industrial, urban, and civil projects.";
+    "Discover high-quality fiberglass (FRP) products including grating, handrails, kiosks, manhole covers, tanks, metro components, and playground equipment. Trusted for industrial, urban, and civil projects.";
 
   return {
     title,
@@ -13,11 +13,11 @@ export async function generateMetadata() {
     openGraph: {
       title,
       description,
-      url: "https://www.technofiber.com/products",
+      url: "https://www.technofiberegypt.com/products",
       siteName: "TechnoFiber",
       images: [
         {
-          url: "https://www.technofiber.com/og-image.jpg",
+          url: "https://www.technofiberegypt.com/og-image.jpg",
           width: 1200,
           height: 630,
           alt: "TechnoFiber Fiberglass Products",
@@ -30,7 +30,7 @@ export async function generateMetadata() {
       card: "summary_large_image",
       title,
       description,
-      images: ["https://www.technofiber.com/og-image.jpg"],
+      images: ["https://www.technofiberegypt.com/og-image.jpg"],
     },
     // ✅ إضافة الـ favicon والأيقونات
     icons: {
@@ -58,14 +58,15 @@ export default function ProductsLayout({ children }) {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             name: "TechnoFiber",
-            image: "https://www.technofiber.com/logo.png",
-            url: "https://www.technofiber.com",
+            image: "https://www.technofiberegypt.com/logo.png",
+            url: "https://www.technofiberegypt.com",
+            email: "info@technofiberegypt.com",
             telephone: "+20-100-000-0000",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Industrial Zone, Cairo",
               addressLocality: "Cairo",
-              postalCode: "12345",
+              postalCode: "12511",
               addressCountry: "EG",
             },
             openingHours: "Mo-Fr 09:00-17:00",
@@ -90,13 +91,13 @@ export default function ProductsLayout({ children }) {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://www.technofiber.com",
+                item: "https://www.technofiberegypt.com",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Products",
-                item: "https://www.technofiber.com/products",
+                item: "https://www.technofiberegypt.com/products",
               },
             ],
           }),

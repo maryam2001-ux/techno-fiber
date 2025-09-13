@@ -62,7 +62,7 @@ export const productsList = {
       ],
       documents: [{ name: "Datasheet", link: "/docs/grating2-datasheet.pdf" }],
       title: {
-        en: "FRP Shur Blit | Anti-Slip Flooring with High Load Capacity for Harsh Environments",
+        en: "FRP Chequer plates | Anti-Slip Flooring with High Load Capacity for Harsh Environments",
         ar: "FRP شكر بليت | أرضيات مضادة للانزلاق ذات تحمل عالي للبيئات القاسية",
       },
       description: {
@@ -387,49 +387,48 @@ export const productsList = {
     {
       slug: "manhole-1",
       img: [
-        "/products/manhole-cover/Fiberglass-manhole-cover.webp ",
-        "/products/manhole-cover/Fiberglass-manhole-cover-5.webp ",
         "/products/manhole-cover/Fiberglass-manhole-cover-6.webp ",
         "/products/manhole-cover/Fiberglass-manhole-cover-9.webp ",
+        "/products/manhole-cover/Fiberglass-manhole-cover.webp ",
+        "/products/manhole-cover/Fiberglass-manhole-cover-5.webp ",
+        "/products/manhole-cover/Fiberglass-manhole-cover-10.webp",
       ],
       title: {
         en: "Round FRP Manhole Cover",
-        ar: "غطاء صرف صحي دائري فيبر جلاس",
+        ar: "غطاء صرف صحي |  متعدد الاحمال من فيبر جلاس",
       },
       description: {
         en: "Durable manhole cover made of fiberglass (FRP). Lightweight, non-conductive, and corrosion-resistant, making it ideal for pedestrian zones, sidewalks, and light to medium traffic roads.",
-        ar: "غطاء صرف صحي دائري مصنوع من الفيبر جلاس (FRP)، خفيف الوزن، غير موصل للكهرباء، ومقاوم للتآكل، مما يجعله مثاليًا لممرات المشاة والأرصفة وطرق المرور الخفيف إلى المتوسط.",
+        ar: "غطاء صرف صحي  مصنوع من الفيبر جلاس (FRP)، خفيف الوزن، غير موصل للكهرباء، ومقاوم للتآكل، مما يجعله مثاليًا لممرات المشاة والأرصفة وطرق المرور الخفيف إلى المتوسط.",
       },
       features: {
         en: [
-          "Anti-theft – no scrap value",
+          "Anti-theft ",
           "Lightweight and easy to install",
           "Long-lasting and corrosion-resistant",
-          "Available in multiple load classes (B125, C250, D400)",
         ],
         ar: [
-          "مضاد للسرقة – لا قيمة خردة له",
+          "مضاد للسرقه - لا يعاد تدويرها",
           "خفيف الوزن وسهل التركيب",
           "يدوم طويلاً ومقاوم للتآكل",
-          "متوفر بفئات تحميل متعددة (B125، C250، D400)",
         ],
       },
       details: {
         dimensions: {
-          en: "600mm x 600mm (custom sizes available)",
-          ar: "600مم × 600مم (مقاسات مخصصة متوفرة)",
+          en: " (custom sizes available)",
+          ar: " ( كل مقاسات  متوفرة )",
         },
         materials: {
-          en: "FRP Composite (Fiberglass Reinforced Plastic)",
-          ar: "مركب FRP (فيبر جلاس مقوى)",
+          en: "FRP (Fiberglass Reinforced Plastic)",
+          ar: " (فيبر جلاس )",
         },
         applications: {
-          en: "Urban drainage, pedestrian areas, light to medium traffic roads",
-          ar: "الصرف الحضري، مناطق المشاة، طرق المرور الخفيف إلى المتوسط",
+          en: "Urban drainage, pedestrian areas",
+          ar: "الصرف الصحي و مناطق المشاة،",
         },
         standards: {
-          en: "EN 124 Certified (B125 – D400)",
-          ar: "معتمد EN 124 (من B125 حتى D400)",
+          en: " Certified ",
+          ar: "معتمده",
         },
         warranty: {
           en: "5 years against manufacturing defects",
@@ -446,11 +445,10 @@ export const productsList = {
       img: [
         "/products/manhole-cover/Fiberglass-manhole-cover-8.webp",
         "/products/manhole-cover/Fiberglass-manhole-cover-3.webp",
-        "/products/manhole-cover/Fiberglass-manhole-cover-10.webp",
       ],
       title: {
         en: "Heavy-Duty FRP Drain Grating",
-        ar: "صفاية صرف صحي فيبر جلاس للخدمة الشاقة",
+        ar: "صفاية صرف صحي فيبر جلاس  ",
       },
       description: {
         en: "Heavy-duty fiberglass drain grating designed for industrial areas, airports, and rainwater drainage systems. Strong, chemical-resistant, and impact-resistant for long-lasting performance.",
@@ -461,31 +459,29 @@ export const productsList = {
           "High load-bearing capacity for heavy traffic",
           "Corrosion and chemical resistant",
           "Non-conductive – safe for electrical environments",
-          "Available in multiple shapes (round, square, rectangular)",
         ],
         ar: [
           "قدرة عالية على تحمل الأحمال الثقيلة",
           "مقاومة للتآكل والمواد الكيميائية",
           "غير موصلة للكهرباء – آمنة بالقرب من المرافق الكهربائية",
-          "متوفرة بأشكال متعددة (دائرية، مربعة، مستطيلة)",
         ],
       },
       details: {
         dimensions: {
-          en: "Standard Ø600mm (custom sizes available)",
-          ar: "قطر قياسي 600مم (مقاسات مخصصة متوفرة)",
+          en: " (custom sizes available)",
+          ar: " ( كل مقاسات  متوفرة )",
         },
         materials: {
-          en: "FRP Composite (Fiberglass Reinforced Plastic)",
-          ar: "مركب FRP (فيبر جلاس مقوى)",
+          en: "FRP  (Fiberglass Reinforced Plastic)",
+          ar: " (فيبر جلاس )",
         },
         applications: {
           en: "Industrial sites, airports, rainwater drainage, heavy traffic roads",
           ar: "المناطق الصناعية، المطارات، شبكات صرف الأمطار، طرق المرور الثقيل",
         },
         standards: {
-          en: "EN 124 Certified – Load Class D400",
-          ar: "معتمد EN 124 – فئة تحميل D400",
+          en: "  Certified ",
+          ar: "معتمد ",
         },
         warranty: {
           en: "5 years against manufacturing defects",
@@ -623,22 +619,20 @@ export const productsList = {
         "/products/tank/Fiberglass-Tanks-3.webp",
       ],
       title: {
-        en: "Techno Fiber Vertical FRP Storage Tank | For Chemicals & Treated Water",
-        ar: "خزان عمودي FRP | للمواد الكيميائية ومياه المعالجة",
+        en: "Vertical Fiberglass Tanks",
+        ar: "خزانات راسيه فيبر جلاس",
       },
       description: {
-        en: "Techno Fiber vertical FRP tank — ideal for water treatment plants and chemical industries. Capacities from 5,000 to 50,000 liters. Compliant with FDA and ISO standards, easy to clean and inspect. Rust-free, no periodic maintenance required.",
-        ar: "خزان FRP من تكنو فيبر — مثالي لمحطات معالجة المياه والصناعات الكيميائية. سعات من 5,000 لتر إلى 50,000 لتر. وسهل التنظيف والتفتيش. لا يصدأ، ولا يحتاج صيانة دورية.",
+        en: "A vertical fiberglass tank — ideal for water treatment plants and chemical industries. Available in capacities from 5,000 to 50,000 liters with easy cleaning features.",
+        ar: "خزان راسي من فيبر جلاس — متوفر بسعات من 0.5 م3 إلى 1,000 م3 سهل التنظيف .",
       },
       features: {
         en: [
-          "100% leak-proof double-wall construction",
           "Chemical-resistant resin for harsh media",
           "UV-stabilized for outdoor installations",
           "Custom fittings & access points",
         ],
         ar: [
-          "بناء ذو جدار مزدوج 100% مضاد للتسرب",
           "راتنج مقاوم للكيماويات القاسية",
           "فتحة تفتيش وفلنشات وهوايات خارجية",
           "تركيبات وفتحات مخصصة",
@@ -646,12 +640,12 @@ export const productsList = {
       },
       details: {
         dimensions: {
-          en: "Multiple capacities starting from 500 liters",
-          ar: "سعات متعددة تبدأ من 500 لتر",
+          en: "Multiple capacities starting from 0.5 meter",
+          ar: "سعات متعددة تبدأ من  0.5 م3 وحتي 100 م3",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
-          ar: "بلاستيك مقوى بالألياف الزجاجية (FRP)",
+          ar: "بوليستر مقوى بالألياف الزجاجية (FRP)",
         },
         applications: {
           en: "Chemical Storage, Water Treatment, Fuel, Municipal",
@@ -661,7 +655,10 @@ export const productsList = {
           en: "ISO 9001",
           ar: "ISO 9001",
         },
-        warranty: { en: "5 years", ar: "5 سنة" },
+        warranty: {
+          en: "3 years",
+          ar: "3 سنة",
+        },
         installation: {
           en: "Above-ground or underground – with anchoring system",
           ar: "فوق الأرض أو تحت الأرض – مع نظام تثبيت",
@@ -678,12 +675,12 @@ export const productsList = {
         "/products/tank/Fiberglass-Tanks-10.webp",
       ],
       title: {
-        en: "Techno Fiber Square FRP Tank | For Transport & Industrial Storage",
-        ar: "خزان FRP مربع او مسطتيل الشكل | للنقل والتخزين الصناعي",
+        en: "Modular Panel System Fiberglass Tanks",
+        ar: "خزانات بنظام الوحدات المجمعه (panels) فيبر جلاس ",
       },
       description: {
-        en: "Techno Fiber square FRP tank — compact design for efficient fuel or wastewater storage. Ideal for vehicle mounting or tight sites. Reinforced for mobility, leak-tested, and resistant to shocks and harsh weather.",
-        ar: "خزان FRP مربع من تكنو فيبر — تصميم يوفر مساحة تخزين فعالة للوقود أو مياه الصرف. ، خاضع لاختبار التسرب، ومقاوم للصدمات .",
+        en: "A square/rectangular fiberglass tank — maximizes space utilization for storage or transport. Suitable for fuel, water, or wastewater.",
+        ar: "خزان مربع/مستطيل من فيبر جلاس — يوفر أقصى استفادة من المساحة في التخزين  . مناسب للوقود، المياه، أو مياه الصرف.",
       },
       features: {
         en: [
@@ -703,12 +700,12 @@ export const productsList = {
       },
       details: {
         dimensions: {
-          en: "From 5m³ to hundreds of m³ (various capacities available)",
-          ar: "من 5م³ إلى مئات م³ (سعات مختلفه متاحة)",
+          en: "From 1m³ to 1000 of m³ (various capacities available)",
+          ar: "من 1م³ إلى 1000 م³ (سعات مختلفه متاحة)",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
-          ar: "بلاستيك مقوى بالألياف الزجاجية (FRP)",
+          ar: "بوليستر مقوى بالألياف الزجاجية (FRP)",
         },
         applications: {
           en: "Chemical Storage, Water Treatment, Fuel, Municipal",
@@ -718,7 +715,10 @@ export const productsList = {
           en: "ISO 9001",
           ar: "ISO 9001",
         },
-        warranty: { en: "3 years", ar: "3 سنة" },
+        warranty: {
+          en: "3 years",
+          ar: "3 سنة",
+        },
         installation: {
           en: "Indoor or outdoor – with anchoring system",
           ar: "داخلي او خارجي – مع نظام تثبيت",
@@ -727,49 +727,48 @@ export const productsList = {
     },
     {
       slug: "tank-3",
-      img: [
-        "/products/tank/Fiberglass-Tanks-11.webp",
-      ],
+      img: ["/products/tank/Fiberglass-Tanks-11.webp"],
       title: {
-        en: "Techno Fiber Spherical FRP Tank | High-Pressure Storage",
-        ar: "خزان كروي من تكنو فيبر | تخزين عالي الضغط",
+        en: "Spherical Fiberglass Tank",
+        ar: "خزان كروي فيبر جلاس",
       },
       description: {
-        en: "Techno Fiber spherical FRP tank — engineered for reliable storage of gases and pressurized liquids. Its spherical design ensures uniform stress distribution, exceptional durability, and minimal maintenance. Ideal for LPG, compressed air, and chemical applications.",
-        ar: "خزان كروي من تكنو فيبر — مصمم لتخزين الغازات والسوائل المضغوطة بأمان. يوفّر الشكل الكروي توزيعًا متساويًا للإجهاد، متانة عالية، وصيانة منخفضة. مثالي لتخزين غاز البترول المسال (LPG)، الهواء المضغوط، والتطبيقات الكيميائية.",
+        en: "A spherical fiberglass tank — distinguished by high resistance to pressure and impact. Subjected to rigorous quality testing and ideal for industrial storage.",
+        ar: "خزان كروي الشكل من فيبر جلاس — يتميز بقدرة عالية على مقاومة الضغط والصدمات. خاضع لاختبارات الجودة ومناسب للتخزين الصناعي.",
       },
       features: {
         en: [
           "Spherical geometry for maximum strength and efficiency",
-          "Withstands internal pressures up to 16 bar",
           "UV-protected outer surface for outdoor use",
-          "Integrated safety vent and pressure relief system",
+          "Equipped with an inspection opening and all necessary openings for use.",
         ],
         ar: [
           "تصميم كروي يعزز القوة والكفاءة",
-          "يتحمل ضغوط داخلية حتى 16 بار",
-          "سطح خارجي مقاوم للأشعة فوق البنفسجية للاستخدام الخارجي",
-          "مزود بفتحة أمان ونظام تفريغ ضغط مدمج",
+          "سطح خارجي مقاوم للعوامل الجويه و للاستخدام الخارجي",
+          "مزود بفتحة تفتيش وجميع الفتحات اللازمه للاستخدام ",
         ],
       },
       details: {
         dimensions: {
-          en: "1m³ to 30m³ (custom sizes up to 50m³)",
-          ar: "من 1م³ إلى 30م³ (أحجام مخصصة حتى 50م³)",
+          en: "1m³ to 10m³",
+          ar: "من 1م³ إلى 10م³",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
-          ar: "فيبر جلاس مقوى (FRP)",
+          ar: "فيبر جلاس  (FRP)",
         },
         applications: {
-          en: "LPG storage, compressed air systems, chemical plants, gas distribution",
-          ar: "تخزين غاز البترول المسال (LPG)، أنظمة الهواء المضغوط، المصانع الكيميائية، توزيع الغاز",
+          en: "Chemical Storage, Water Treatment, Fuel, Municipal",
+          ar: "التخزين الكيميائي، معالجة المياه، الوقود ",
         },
         standards: {
-          en: "ASME BPVC Section VIII, ISO 9001, PED 2014/68/EU",
-          ar: "ASME BPVC القسم الثامن، ISO 9001، PED 2014/68/EU",
+          en: "ISO 9001",
+          ar: " ISO 9001",
         },
-        warranty: { en: "3 years", ar: "3 سنة" },
+        warranty: {
+          en: "3 years",
+          ar: "3 سنة",
+        },
         installation: {
           en: "Above-ground with reinforced concrete base or anchored foundation",
           ar: "يُركب فوق الأرض على قاعدة خرسانية مدعمة أو أساس مثبت",
@@ -778,16 +777,14 @@ export const productsList = {
     },
     {
       slug: "tank-4",
-      img: [
-        "/products/tank/Fiberglass-Tanks-12.webp",
-      ],
+      img: ["/products/tank/Fiberglass-Tanks-12.webp"],
       title: {
-        en: "Techno Fiber Horizontal FRP Tank | Compact & Mobile Storage",
-        ar: "خزان أسطواني أفقي من تكنو فيبر | تخزين مدمج ومتنقل",
+        en: "Horizontal Cylindrical Fiberglass Tank",
+        ar: "خزان اسطواني أفقي فيبر جلاس",
       },
       description: {
-        en: "Techno Fiber horizontal FRP tank — designed for efficient, mobile, and roadside liquid storage. Ideal for transport trucks, fuel depots, and temporary setups. Lightweight, corrosion-resistant, and fully certified for safe handling.",
-        ar: "خزان أسطواني أفقي من تكنو فيبر — مصمم لتخزين فعال للسائل مع سهولة النقل والتركيب. مثالي للشاحنات الناقلة، مستودعات الوقود، والتركيبات المؤقتة. خفيف الوزن، مقاوم للتآكل، ومعتمد للاستخدام الآمن.",
+        en: "A horizontal cylindrical fiberglass tank — perfect for underground or above-ground storage. Leak-proof, lightweight, and easy to install.",
+        ar: "خزان أفقي اسطواني من فيبر جلاس — مثالي للتخزين تحت الأرض أو فوق السطح. مقاوم للتسرب، خفيف الوزن، وسهل التركيب.",
       },
       features: {
         en: [
@@ -805,22 +802,25 @@ export const productsList = {
       },
       details: {
         dimensions: {
-          en: "1m³ to 40m³ (customizable sizes available)",
-          ar: "من 1م³ إلى 40م³ (أحجام مخصصة متاحة)",
+          en: "1m³ to 50m³ (customizable sizes available)",
+          ar: "من 1م³ إلى 50م³ (أحجام مخصصة متاحة)",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
-          ar: "فيبر جلاس مقوى (FRP)",
+          ar: "فيبر جلاس  (FRP)",
         },
         applications: {
           en: "Fuel transport, water trucking, chemical delivery, wastewater collection",
           ar: "نقل الوقود، نقل المياه، توصيل المواد الكيميائية، جمع مياه الصرف",
         },
         standards: {
-          en: "ASME RTP-1, AWWA D120, ISO 9001",
-          ar: "ASME RTP-1، AWWA D120، ISO 9001",
+          en: " ISO 9001",
+          ar: " ISO 9001",
         },
-        warranty: { en: "3 years", ar: "3 سنة" },
+        warranty: {
+          en: "3 years",
+          ar: "3 سنة",
+        },
         installation: {
           en: "Mounted on trailers, skids, or fixed platforms — no foundation needed",
           ar: "يُثبت على مقطورات أو منصات ثابتة — لا يحتاج إلى أساس",
@@ -829,16 +829,14 @@ export const productsList = {
     },
     {
       slug: "tank-5",
-      img: [
-        "/products/tank/Fiberglass-Tanks-13.webp",
-      ],
+      img: ["/products/tank/Fiberglass-Tanks-13.webp"],
       title: {
-        en: "Techno Fiber FRP Cooling Towers | Industrial & HVAC Performance",
-        ar: "أبراج تبريد من تكنو فيبر | كفاءة صناعية وأنظمة تكييف",
+        en: "Fiberglass Cooling Towers",
+        ar: "أبراج معادلة فيبر جلاس",
       },
       description: {
-        en: "Techno Fiber FRP cooling towers — engineered to maximize heat dissipation and water efficiency in industrial and commercial operations. Corrosion-free, weather-resistant, and built for continuous performance with minimal maintenance.",
-        ar: "أبراج تبريد من تكنو فيبر — مصممة لتحقيق أقصى كفاءة في تبديد الحرارة وتوفير المياه في البيئات الصناعية والتجارية. مقاومة للتآكل والظروف الجوية، وتعمل باستمرار مع صيانة منخفضة.",
+        en: "Fiberglass cooling towers — used in factories, hospitals, and water/wastewater treatment systems. Known for durability and exceptional corrosion resistance.",
+        ar: "أبراج معادلة من فيبر جلاس — تُستخدم في المصانع، المستشفيات، وأنظمة معالجة المياه والصرف الصحي. تتميز بالمتانة ومقاومة التآكل.",
       },
       features: {
         en: [
@@ -856,22 +854,25 @@ export const productsList = {
       },
       details: {
         dimensions: {
-          en: "10m³ to 500m³/hour capacity (custom heights up to 15m)",
-          ar: "سعة من 10م³ إلى 500م³/ساعة (ارتفاعات مخصصة حتى 15م)",
+          en: "As per client request",
+          ar: "حسب طلب العميل ",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
-          ar: "فيبر جلاس مقوى (FRP)",
+          ar: "فيبر جلاس  (FRP)",
         },
         applications: {
-          en: "Power plants, factories, hospitals, data centers, HVAC systems",
-          ar: "محطات الطاقة، المصانع، المستشفيات، مراكز البيانات، أنظمة التكييف",
+          "en": "Chemical Storage, Water Treatment, Fuel, Municipal",
+        "ar": "  محطات مياه الشرب  "
         },
         standards: {
-          en: "CTI Standard 136, ASME B31.3, ISO 9001",
-          ar: "CTI Standard 136، ASME B31.3، ISO 9001",
+          en: " ISO 9001",
+          ar: " ISO 9001",
         },
-        warranty: { en: "3 years", ar: "3 سنة" },
+        warranty: {
+          en: "3 years",
+          ar: "3 سنة",
+        },
         installation: {
           en: "Roof-top, ground-mounted, or integrated into structures",
           ar: "تُركب على الأسطح، الأرضيات، أو مدمجة في المباني",

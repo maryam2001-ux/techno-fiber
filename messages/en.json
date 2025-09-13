@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "TechnoFiber | Fiberglass Reinforced Plastic (FRP) Products",
-    "description": "A leading manufacturer of high-quality FRP products in Egypt since 1996."
+    "title": "Techno Fibre | Fiberglass Products",
+    "description": "A leading manufacturer of high-quality FRP products in Egypt."
   },
 
   "HomePage": {
-    "title": "Welcome to TechnoFiber – Fiberglass Solutions"
+    "title": "Welcome to Techno Fibre – Fiberglass Solutions"
   },
 
   "NotFound": {
-    "imageAlt": "Illustration of a 404 error page",
+    "imageAlt": "Illustration of a 404 page",
     "title": "Page Not Found",
     "message": "Sorry, the page you're looking for doesn't exist or has been moved.",
-    "goHome": "Go to Home",
+    "goHome": "Go Home",
     "goBack": "Go Back"
   },
 
@@ -26,65 +26,65 @@
     "toggleMenu": "Toggle Navigation Menu",
     "Site": {
       "title": {
-        "main": "TechnoFiber",
-        "sub": " for FRP Solutions"
+        "main": "Techno Fibre",
+        "sub": " for Fiberglass"
       }
     }
   },
 
   "Hero": {
-    "carouselLabel": "Home Page Carousel",
+    "carouselLabel": "Homepage Carousel",
     "slides": [
       {
-        "title": "TechnoFiber | Leading Manufacturer of FRP Products in Egypt – Established in 1996",
-        "description": "We design and manufacture all types of FRP products — handrails, walkways, stadium seats, tanks, and pultruded profiles. Superior quality, precision-engineered, proudly made in Egypt.",
+        "title": "Techno Fibre | The Leading Manufacturer of All Fiberglass Products in Egypt – Established in 1996",
+        "description": "We design and manufacture all fiberglass products — handrails, walkways, stadium seats, tanks, and pultruded sections. Superior quality, precision-engineered, and proudly made in Egypt.",
         "img": "/hero/Fiberglass-playground-2.webp",
-        "imgAlt": "TechnoFiber manufacturing facility in Egypt – Integrated pultrusion line for FRP products"
+        "imgAlt": "Techno Fibre fiberglass manufacturing plant in Egypt — integrated pultrusion line for FRP products"
       },
       {
-        "title": "Durable FRP Tanks for Water and Chemical Storage",
-        "description": "100% rust-proof FRP tanks engineered to withstand aggressive chemicals and high temperatures — the ideal solution for chemical processing and water treatment industries in Egypt.",
+        "title": "Fiberglass Tanks for Water and Chemical Storage",
+        "description": "100% rust-proof fiberglass tanks designed to withstand aggressive chemicals and extreme temperatures — the ideal solution for chemical and water treatment industries in Egypt.",
         "img": "/hero/Fiberglass-Tanks.webp",
-        "imgAlt": "FRP storage tanks for chemicals and water – corrosion-resistant – TechnoFiber Egypt"
+        "imgAlt": "FRP storage tanks for chemicals and water — corrosion-resistant — Techno Fibre Egypt"
       },
       {
-        "title": "FRP Internal Components for Metro and Railway Vehicles",
-        "description": "High-strength FRP components designed for heavy-duty public transit environments — fire-resistant, lightweight, and engineered to meet metro and railway safety standards.",
+        "title": "Fiberglass Internal Components for Metro and Railway Vehicles",
+        "description": "Ultra-durable fiberglass components engineered for heavy-duty public transport — fire-resistant and perfectly tailored for metro and railway environments.",
         "img": "/hero/Fiberglass-internal-component-metro-railway.webp",
-        "imgAlt": "FRP interior components for trains – durable and lightweight – TechnoFiber Egypt"
+        "imgAlt": "FRP internal components for trains — durable — Techno Fibre Egypt"
       },
       {
-        "title": "Superior FRP Handrails and Stair Systems",
-        "description": "Engineered for safety and longevity — our FRP handrails and stairs are non-conductive, impact-resistant, and weatherproof — perfect for industrial, marine, and commercial applications.",
+        "title": "Premium Fiberglass Handrails & Stairs — Safety Designed for Life",
+        "description": "Designed for safety and longevity — our fiberglass handrails and stairs are non-conductive, impact-resistant, and weatherproof — perfect for industrial, marine, and commercial applications.",
         "img": "/hero/Fiberglass-handrail.webp",
-        "imgAlt": "FRP handrails and stair systems – weather and corrosion resistant – TechnoFiber"
+        "imgAlt": "FRP handrails and stairs — weather and corrosion-resistant — Techno Fibre"
       },
       {
-        "title": "FRP Guard Shacks & Toilet Cabins – Practical, Lightweight, Fast-Deploy Solutions",
-        "description": "TechnoFiber offers lightweight, modern-design FRP guard shacks and public toilet cabins built to endure Egypt’s harshest environments with minimal maintenance.",
+        "title": "Fiberglass Guard Shacks & Toilet Cabins — Practical, Fast-Deploy Solutions for Security and Comfort",
+        "description": "Techno Fibre offers lightweight, modern fiberglass guard shacks and public toilet cabins built to endure Egypt’s harshest environments.",
         "img": "/hero/Fiberglass-kishok.webp",
-        "imgAlt": "FRP guard shacks – lightweight and corrosion-resistant – TechnoFiber Egypt"
+        "imgAlt": "FRP guard shacks — lightweight and corrosion-resistant — Techno Fibre Egypt"
       }
     ]
   },
 
   "about": {
-    "whyChooseTitle": "Why Choose TechnoFiber?",
-    "title": "TechnoFiber – Egypt’s Leading FRP Manufacturer",
-    "intro": "TechnoFiber is a market leader in FRP (Fiberglass Reinforced Plastic) products in Egypt, delivering strong, lightweight, and corrosion-resistant solutions for demanding industrial applications.",
+    "whyChooseTitle": "Why Choose Techno Fibre?",
+    "title": "Techno Fibre – Egypt’s Leading Manufacturer of Fiberglass (FRP)",
+    "intro": "Techno Fibre is a market leader in Egypt’s FRP industry, delivering strong, lightweight, and corrosion-resistant solutions.",
     "pultrusionTitle": "Egypt’s First Full Pultrusion Line",
-    "pultrusionText": "We are the first company in Egypt to operate a complete pultrusion line, producing FRP profiles as a direct replacement for steel and aluminum.",
-    "gratingTitle": "Market Leader in FRP Gratings",
-    "gratingText": "Egypt’s foremost manufacturer and supplier of FRP grating — renowned for durability, consistency, and performance.",
-    "bmcTitle": "Integrated BMC Production Line",
-    "bmcText": "We produce high-performance BMC (Bulk Molding Compound) products using an integrated production line — an ideal alternative to metals and conventional plastics for high-strength applications.",
+    "pultrusionText": "We are the first company in Egypt with a complete pultrusion line, producing FRP sections as a superior alternative to steel and aluminum.",
+    "gratingTitle": "Market Leader in Gratings (Walkways)",
+    "gratingText": "We manufacture and supply high-quality FRP gratings — known across Egypt for durability and performance.",
+    "bmcTitle": "Full BMC Production Line",
+    "bmcText": "We produce high-performance BMC products using an integrated production line — the ideal alternative to metals and conventional plastics.",
     "contactAriaLabel": "Navigate to Contact Section",
     "cta": "Contact Us Today"
   },
 
   "clients": {
     "title": "Our Trusted Partners",
-    "description": "We take pride in partnering with Egypt’s largest government institutions, industrial giants, and infrastructure developers.",
+    "description": "We take pride in partnering with Egypt’s largest government institutions, industrial leaders, and infrastructure projects.",
     "list": [
       {
         "name": "Arab Organization for Industrialization",
@@ -107,7 +107,7 @@
         "logo": "/client/اوراسكم.webp"
       },
       {
-        "name": "Masa3ad Factory",
+        "name": "Masa3ed Qader",
         "logo": "/client/مصنع-قادر.webp"
       },
       {
@@ -130,18 +130,18 @@
   },
 
   "features": {
-    "sectionTitle": "End-to-End Services",
-    "sectionDesc": "TechnoFiber delivers complete FRP solutions — from design and manufacturing to installation and nationwide distribution, backed by technical support across Egypt.",
+    "sectionTitle": "Our Integrated Services",
+    "sectionDesc": "Techno Fibre delivers end-to-end FRP solutions — from design and manufacturing to installation, distribution, and technical support nationwide.",
     "manufacturingTitle": "Design & Manufacturing",
-    "manufacturingText": "Precision manufacturing of FRP products using advanced technologies to deliver unmatched strength, intelligent engineering, and reliable performance even under extreme conditions.",
+    "manufacturingText": "High-precision manufacturing of FRP products using advanced technologies — delivering unmatched durability, intelligent engineering, and guaranteed performance even under extreme conditions.",
     "installationTitle": "Installation & Supply",
-    "installationText": "Professional on-site installation by certified teams, fully compliant with safety, quality, and schedule standards.",
+    "installationText": "On-site installation by trained teams adhering strictly to safety, quality, and timeline standards.",
     "supplyTitle": "Maintenance & Technical Support",
-    "supplyText": "Scheduled maintenance services and dedicated technical support for industrial and government sectors nationwide."
+    "supplyText": "Dedicated maintenance services and technical support for industrial and government clients across Egypt."
   },
 
   "offers": {
-    "sectionTitle": "What TechnoFiber Offers",
+    "sectionTitle": "What Techno Fibre Offers",
     "sectionDesc": "With decades of experience and a proven track record, we deliver innovative, durable, and sustainable FRP solutions.",
     "experienceValue": "30+",
     "experienceLabel": "Years of Experience",
@@ -150,33 +150,33 @@
     "projectsLabel": "Projects Completed",
     "projectsDesc": "Successfully delivered across Egypt and the Middle East.",
     "productsValue": "100+",
-    "productsLabel": "Product Variants",
-    "productsDesc": "From gratings and tanks to custom pultrusions and specialized components."
+    "productsLabel": "Diverse Product Range",
+    "productsDesc": "From gratings to tanks, pultrusions, and custom-made solutions."
   },
 
   "Contact": {
     "title": "Contact Us",
-    "subtitle": "Ready to support your industrial needs. Reach out for inquiries, quotations, or technical assistance.",
+    "subtitle": "We’re ready to support your industrial needs. Reach out for inquiries, quotations, or technical assistance.",
     "headOffice": {
       "title": "Head Office & Manufacturing Plants",
-      "address": "Abd El-Salam Abu Al-Ezz St., Behind Al-Jahiny Land, Qalioubia, Qalyub, Egypt",
-      "phone": "Phone: +2 (02) 421-59-444"
+      "address": "Abd Al-Salam Abu El-Ezz St., Behind Ared Al-Jehini, Qalioubiya - Qalyub, Egypt",
+      "phone": "Phone: +20 2 421 59 444"
     },
     "octoberBranch": {
       "title": "October Branch",
-      "address": "Industrial Zone, Plot 403, 3rd Sector"
+      "address": "Industrial Area, Plot 403, Third Section"
     },
     "generalContact": {
       "title": "General Contacts",
-      "email": "technofiber2000@gmail.com",
-      "whatsapp": "+20 10 67032423 | +20 10 16997477 (WhatsApp for Orders)",
-      "management": "+20 01005158566 (Management)"
+      "email": "info@technofiberegypt.com",
+      "whatsapp": "+(20) 10 67032423 | 10 16997477 (WhatsApp for Orders)",
+      "management": "+(20) 01005158566 (Management)"
     },
     "map": {
       "title": "Our Locations",
       "subtitle": "Cairo & October City"
     },
-    "footerMessage": "Whether you need technical consultation, a quotation, or on-site support — our team is ready to deliver reliable FRP solutions across Egypt and beyond."
+    "footerMessage": "Whether you need technical consultation, a quotation, or on-site support — our team is ready to deliver trusted FRP solutions across Egypt and beyond."
   },
 
   "ProductsPreview": {
@@ -192,139 +192,139 @@
   "Products": {
     "products": {
       "industrial": {
-        "title": "Industrial FRP Products",
-        "desc": "Robust FRP solutions engineered for demanding industrial environments",
+        "title": "Industrial Products",
+        "desc": "Robust FRP solutions for demanding industrial applications",
         "items": {
           "grating": {
-            "title": "FRP Grating | Corrosion-Resistant Industrial Walkways",
-            "brief": "High-quality FRP grating from TechnoFiber — Egypt’s top choice for industrial and commercial flooring projects."
+            "title": "[Grating] FRP Walkways | Corrosion-Resistant Industrial Flooring",
+            "brief": "High-quality FRP gratings from Techno Fibre — Egypt’s top choice for industrial and commercial projects."
           },
           "grating-1": {
-            "title": "Cast FRP Grating | Chemical-Resistant Industrial Flooring",
-            "brief": "High-strength cast FRP grating for platforms, walkways, and corrosive environments — ideal for factories, plants, and marine applications."
+            "title": "Cast FRP Gratings | Industrial Flooring Resistant to Chemicals",
+            "brief": "High-strength cast FRP gratings for industrial platforms, walkways, and corrosive environments. Ideal for factories, plants, and marine applications."
           },
           "grating-2": {
-            "title": "Heavy-Duty Cast FRP Grating | Anti-Slip Flooring for Harsh Environments",
-            "brief": "Premium industrial FRP grating with enhanced load capacity and acid resistance — perfect for chemical plants, wastewater facilities, and offshore platforms."
+            "title": "Cast FRP Gratings | Anti-Corrosion Flooring for Harsh Environments",
+            "brief": "Superior industrial FRP gratings with enhanced load capacity and acid resistance. Perfect for chemical processing, wastewater plants, and marine platforms."
           },
           "handrail": {
-            "title": "FRP Handrail & Stair Systems | Safe & Durable Safety Solutions",
-            "brief": "Handrails and stair systems manufactured from fiberglass-reinforced plastic — made in Egypt by TechnoFiber."
+            "title": "FRP Handrail & Stair Systems | Safe & Durable Solutions",
+            "brief": "Handrails and stairs made from fiberglass by Techno Fibre — manufactured in Egypt."
           },
           "handrail-1": {
-            "title": "Standard FRP Handrail System | Industrial Walkway Safety",
-            "brief": "Standard FRP handrail for platforms, walkways, and access stairs. Resistant to rust, chemicals, and UV degradation."
+            "title": "FRP Handrail System | Industrial Walkway Safety",
+            "brief": "Standard FRP handrails for platforms, walkways, and access stairs. Rust-proof, chemical-resistant, and UV-stabilized."
           },
           "handrail-2": {
-            "title": "Heavy-Duty Industrial FRP Handrail | High-Risk Area Safety Barriers",
-            "brief": "Reinforced FRP handrail for high-traffic, corrosive zones — ideal for oil & gas, water treatment, and marine facilities."
+            "title": "Heavy-Duty Industrial FRP Handrail | Safety Barriers for High-Risk Zones",
+            "brief": "Reinforced FRP handrails for high-traffic, corrosive areas. Ideal for oil & gas facilities, water treatment plants, and marine installations."
           },
           "pultrusion": {
-            "title": "FRP Pultruded Profiles | Replacement for Steel & Aluminum",
-            "brief": "Egypt’s first full-scale pultrusion line produces FRP profiles that replace metal — zero rust, zero maintenance."
+            "title": "FRP Pultruded Sections | Replacement for Steel & Aluminum",
+            "brief": "Techno Fibre is Egypt’s first company with a full pultrusion line. We produce FRP profiles that replace metal — no rust, zero maintenance."
           },
           "pultrusion-1": {
-            "title": "FRP I-Sections | Pultruded Structural Beams",
-            "brief": "High-strength FRP I-beams for structural frameworks. 70% lighter than steel, completely corrosion-free, lifetime durability."
+            "title": "I-Shape FRP Pultruded Sections",
+            "brief": "High-strength I-beams for structural frameworks. 70% lighter than steel, completely corrosion-free, lifetime durability."
           },
           "pultrusion-2": {
-            "title": "FRP Channels & Angles | Pultruded Structural Sections",
-            "brief": "Versatile FRP channels and angles for supporting structures, cable trays, and platforms. Resistant to acids, salts, and extreme weather."
+            "title": "FRP Channels & Angles | Pultruded Structural Profiles",
+            "brief": "Multi-purpose FRP channels and angles for supporting structures, cable trays, and platforms. Resistant to acids, salts, and harsh weather."
           },
           "pultrusion-3": {
-            "title": "Round & Square FRP Pipes | Structural Pultruded Tubes",
-            "brief": "Hollow FRP pipes for handrails, fencing, and structural frames. Non-conductive, lightweight, and ideal for electrical and corrosive areas."
+            "title": "Square & Round FRP Pipes | Structural Pultruded Tubes",
+            "brief": "Hollow FRP pipes for railings, fencing, and structural frames. Non-conductive, lightweight, and ideal for electrical and corrosive zones."
           }
         }
       },
       "urban": {
-        "title": "Smart Urban FRP Solutions | Municipal & Public Infrastructure",
-        "desc": "Lightweight, zero-maintenance, corrosion-free FRP products for smart cities — kiosks, manhole covers, junction boxes, and more. Made in Egypt by TechnoFiber.",
+        "title": "Smart Urban FRP Products | Infrastructure for Cities & Public Facilities",
+        "desc": "Lightweight, corrosion-free, maintenance-free FRP products for smart cities — kiosks, manhole covers, junction boxes, and more. Made in Egypt by Techno Fibre.",
         "items": {
           "kiosks": {
-            "title": "FRP Guard Shacks & Toilet Cabins",
-            "brief": "Weather-resistant FRP kiosks designed for durability and low maintenance."
+            "title": "FRP Kiosks | Guard Shacks & Toilet Cabins",
+            "brief": "Weather-resistant fiberglass kiosks."
           },
           "kiosk-1": {
-            "title": "Smart FRP Kiosk | Emergency & Digital Service Stations",
-            "brief": "Interactive digital kiosk for emergency info and public services. Weather and vandalism-resistant — perfect for parks and plazas."
+            "title": "FRP Information Kiosk | Digital City Solution",
+            "brief": "Interactive emergency and digital service kiosk. Weather and vandalism resistant — perfect for parks and public squares."
           },
           "kiosk-2": {
-            "title": "Advertising FRP Kiosk | Public Toilet Cabins",
-            "brief": "Customizable FRP advertising kiosks with printable panels — ideal for high-density urban areas. Rust-proof and low-maintenance."
+            "title": "FRP Advertising Kiosk | Public Toilet Cabins",
+            "brief": "Customizable advertising panels for signage or guidance. Rust-proof and low-maintenance for high-density urban areas."
           },
           "manhole": {
-            "title": "FRP Manhole Covers | Lightweight, Anti-Theft Sewer Covers",
-            "brief": "Non-metallic, non-conductive, anti-theft covers resistant to corrosion and heavy loads — perfect for smart city infrastructure."
+            "title": "FRP Manhole Covers | Lightweight, Non-Theft, Non-Conductive Drainage",
+            "brief": "Non-metallic, non-recyclable, non-conductive covers resistant to corrosion, theft, and heavy loads."
           },
           "manhole-1": {
-            "title": "Round FRP Manhole Cover | Urban Sewage",
-            "brief": "Lightweight round cover for sidewalks and streets — 70% lighter than cast iron, rust-free, easy to install and handle."
+            "title": "Round FRP Manhole Cover | Sewage & Drainage",
+            "brief": "Lightweight round cover for pedestrian streets and roads. 70% lighter than cast iron, rust-free, easy to install and handle."
           },
           "manhole-2": {
             "title": "Square FRP Manhole Cover | Industrial Drainage",
-            "brief": "Heavy-duty square cover for factories, airports, and utility zones. Resistant to chemicals and impact damage."
+            "brief": "Reinforced square cover for factories, airports, and utility sites. Resistant to chemicals and impact."
           },
           "delivery": {
-            "title": "FRP Delivery Boxes | Secure Parcel Lockers",
-            "brief": "TechnoFiber offers a wide range of FRP delivery locker designs."
+            "title": "FRP Delivery Boxes | Secure Parcel Drop Units",
+            "brief": "Techno Fibre offers a wide range of delivery box types."
           },
           "delivery-1": {
             "title": "FRP Delivery Box | Secure Parcel Locker",
-            "brief": "Compact, wall-mountable locker for homes and small buildings. UV and moisture resistant, easy to install on poles or walls."
+            "brief": "Compact secure locker for homes and small buildings. UV and moisture resistant, wall- or pole-mountable."
           }
         }
       },
       "civil": {
-        "title": "Civil & Public FRP Solutions | Infrastructure, Storage & Safety",
-        "desc": "High-performance FRP products for civil infrastructure: metro interiors, chemical storage tanks, and child-safe playground equipment — designed in Egypt by TechnoFiber.",
+        "title": "Civil FRP Products | Infrastructure, Storage & Public Safety",
+        "desc": "High-performance FRP solutions for civil projects: metro interiors, chemical storage tanks, and safe children’s playground equipment — designed in Egypt by Techno Fibre.",
         "items": {
           "metro": {
-            "title": "Metro & Train Interior Components | Seats & Wall Linings",
-            "brief": "TechnoFiber manufactures lightweight, fire-resistant, corrosion-proof FRP interior components for metro cars — ideal for high-capacity transit systems."
+            "title": "Metro & Train Interior Components | Seats & Wall Panels",
+            "brief": "Techno Fibre manufactures lightweight, fire-resistant, and corrosion-proof FRP interior components for metro cars — ideal for high-capacity transit systems."
           },
           "metro-1": {
-            "title": "FRP Passenger Seats | Comfortable & Easy-Clean Seating",
-            "brief": "Molded FRP passenger seats with anti-slip surfaces, chemical resistance, and vandal-proof finish. Fully compliant with international rail safety standards."
+            "title": "FRP Passenger Seats | Comfortable & Easy-to-Clean",
+            "brief": "Cast FRP seats with ergonomic design, anti-slip surface, and chemical resistance. Easy to sanitize, vandal-proof, and compliant with international rail safety standards."
           },
           "metro-2": {
-            "title": "FRP Interior Wall & Ceiling Panels | Metro Car Linings",
-            "brief": "Custom FRP wall and ceiling panels for train compartments. Non-conductive, moisture-resistant, quick-install, reduce overall train weight and maintenance costs."
+            "title": "FRP Wall & Ceiling Liners | Lightweight Interior Cladding for Metro Cars",
+            "brief": "Custom FRP wall and ceiling panels for train interiors. Non-conductive, moisture-resistant, and designed for quick installation — reduces overall train weight and maintenance costs."
           },
           "tanks": {
-            "title": "FRP Tanks | Corrosion-Free Storage for Water & Chemicals",
-            "brief": "Custom-engineered FRP tanks for acids, wastewater, fuel, and chemicals. Leak-proof and ideal for all industrial applications."
+            "title": "Tanks (Drinking Water, Firefighting & Chemical) ",
+            "brief": "FRP tanks ranging from 0.5 m³ to 1000 m³, designed for storing acids, wastewater, fuel, and chemicals — ideal for all industrial applications."
           },
           "tank-1": {
-            "title": "Vertical FRP Tank | Chemical & Water Treatment Storage",
-            "brief": "Vertical cylindrical tank for aggressive chemicals and water treatment plants. Capacities from 5,000L to 50,000L. FDA & ISO compliant, zero maintenance."
+            "title": "Sectional Panel Tank | For Acid & Water Treatment",
+            "brief": "Vertical cylindrical FRP tank for aggressive chemicals and water treatment plants. Capacities from 5,000 to 50,000 liters. Compliant with FDA and ISO standards."
           },
           "tank-2": {
-            "title": "Horizontal FRP Tank | Fuel & Wastewater Transport",
-            "brief": "Horizontal FRP tank for mobile transport of fuel, wastewater, or liquid waste. Reinforced for transit, leak-tested, and impact-resistant."
+            "title": "Transport Tank FRP | Fuel & Wastewater Storage",
+            "brief": "Horizontal FRP tank for fuel, wastewater, or liquid waste transport. Reinforced for mobility and leak-tested."
           },
           "playground": {
-            "title": "FRP Children’s Playground Equipment | Safe, Durable & Colorful",
-            "brief": "Non-toxic, weather-resistant FRP playground equipment from TechnoFiber — safe for children in schools, parks, and sports clubs."
+            "title": "Children's Playground Equipment Made of FRP | Safe, Durable & Colorful",
+            "brief": "Non-toxic, weather-resistant FRP playground equipment by Techno Fibre. Rust-free, fade-resistant, and vibrant — perfect for schools, parks, and sports clubs — with zero maintenance and long-term durability."
           },
           "playground-1": {
-            "title": "FRP Climbing Structure | Outdoor Play Equipment",
-            "brief": "Colorful climbing frame with rounded edges and UV-stabilized finish — ideal for kindergartens and public parks. Easy to clean and sanitize."
+            "title": "FRP Climbing Structure | Safe Outdoor Play Equipment",
+            "brief": "Colorful climbing structure with soft edges and UV-stabilized finish. Ideal for kindergartens and public parks. Easy to clean and sanitize."
           },
           "playground-2": {
-            "title": "Integrated Slide & Swing Set | Complete FRP Playground Unit",
-            "brief": "All-in-one play unit with slide and swing, reinforced base. Resistant to heat, rain, and vandalism. Low maintenance, long lifespan."
+            "title": "Integrated Slide & Swing Unit | Complete Play System",
+            "brief": "Complete play unit from Techno Fibre combining slide and swing. Built with FRP to resist heat, rain, and vandalism — low maintenance and long-lasting."
           },
           "playground-3": {
-            "title": "Sensory Play Panel | Interactive Educational Station",
+            "title": "Sensory Play Panel FRP | Interactive Educational Station",
             "brief": "Interactive sensory panels for cognitive development. Perfect for inclusive parks. Made from non-toxic, recyclable FRP materials."
           }
         }
       }
     },
     "main": {
-      "title": "Explore Our Full Range of Industrial FRP Products",
-      "subtitle": "Premium Quality Fiberglass Reinforced Plastic Solutions"
+      "title": "Explore Our Full Range of Industrial Products",
+      "subtitle": "All high-quality fiberglass products"
     },
     "buttons": {
       "viewDetails": "View Details"
@@ -332,24 +332,24 @@
   },
 
   "ProductSlugPage": {
-    "heroSubtitle": "Professional FRP products designed exclusively for government institutions, industrial facilities, and infrastructure projects.",
+    "heroSubtitle": "Professional fiberglass products designed specifically for government institutions, industrial facilities, and infrastructure projects.",
     "categories": {
       "grating": {
-        "title": "FRP Grating",
+        "title": "FRP Gratings",
         "items": {
-          "desc": "High-strength, corrosion-resistant industrial flooring for factories, plants, and walkways."
+          "desc": "High-strength, corrosion-resistant flooring for factories, plants, and walkways."
         }
       },
       "grating-1": {
-        "title": "FRP Grating | Lightweight & High-Strength",
+        "title": "FRP Gratings | Lightweight - High Durability",
         "items": {
-          "desc": "Ideal for walkways, platforms, warehouses, and utilities. Non-rusting, electrically insulating, and weather/chemical resistant."
+          "desc": "Ideal for walkways, platforms, warehouses, and utilities. Non-rusting, electrically insulating, weather and chemical resistant."
         }
       },
       "grating-2": {
-        "title": "FRP Checkered Plate | Heavy-Duty Anti-Slip Flooring for Harsh Environments",
+        "title": "FRP Chequer  Plates | Anti-Slip, Heavy-Duty Flooring for Harsh Environments",
         "items": {
-          "desc": "Engineered for chemical plants, marine piers, and oil & gas facilities. Non-conductive, 100% metal replacement."
+          "desc": "Engineered for chemical plants, marine piers, and oil & gas facilities. Non-conductive, 100% replacement for metal grates."
         }
       },
       "handrail": {
@@ -359,153 +359,153 @@
         }
       },
       "handrail-1": {
-        "title": "Pre-Fabricated FRP Stairs",
+        "title": "Excellent FRP Stairs",
         "items": {
-          "desc": "Factory-made for rapid installation in plants, water stations, and tank farms."
+          "desc": "Pre-fabricated for fast installation in factories, water stations, and tank farms."
         }
       },
       "handrail-2": {
-        "title": "Heavy-Duty FRP Handrail Systems | Multiple Configurations",
+        "title": "Techno Fibre Handrails & Railings | Various Profiles & Systems",
         "items": {
-          "desc": "Reinforced for oil & gas, wastewater, and marine facilities with superior load-bearing capacity."
+          "desc": "Reinforced for oil & gas, wastewater, and marine facilities."
         }
       },
       "pultrusion": {
-        "title": "FRP Pultruded Profiles",
+        "title": "FRP Pultruded Sections",
         "items": {
           "desc": "Egypt’s first full pultrusion line. Custom shapes to replace steel and aluminum."
         }
       },
       "pultrusion-1": {
-        "title": "FRP Pultruded Profiles | Replacement for Steel & Aluminum",
+        "title": "FRP Pultruded Sections | Replacement for Iron & Aluminum",
         "items": {
-          "desc": "FRP pultruded profiles — lighter than steel, rust-free for life. The optimal solution for industrial and marine environments."
+          "desc": "FRP pultruded sections — lighter than iron, rust-free for life. The ideal solution for industrial and marine environments."
         }
       },
       "pultrusion-2": {
-        "title": "FRP Angles | Corrosion-Resistant Structural Supports",
+        "title": "FRP Angles | Corrosion-Resistant Structural Supports for Industrial & Civil Projects",
         "items": {
-          "desc": "Smart metal replacement for structural supports requiring long-term durability and reliable performance under harsh conditions."
+          "desc": "FRP angles — a smart alternative to metal in projects requiring long-term durability and reliable performance under harsh conditions."
         }
       },
       "pultrusion-3": {
         "title": "FRP Pipes & Columns",
         "items": {
-          "desc": "Used for handrails, fencing, and electrical zones. Non-conductive and maintenance-free."
+          "desc": "Used for railings, fencing, and electrical zones. Non-conductive and maintenance-free."
         }
       },
       "kiosks": {
-        "title": "FRP Guard Shacks & Toilet Cabins",
+        "title": "FRP Guard Shacks & Cabins",
         "items": {
-          "desc": "Weather-resistant and customizable for security and sanitation applications."
+          "desc": "Weather-resistant and customizable."
         }
       },
       "kiosk-1": {
         "title": "FRP Guard Shack",
         "items": {
-          "desc": "Weather-resistant and lightweight for outdoor security posts."
+          "desc": "Weather-resistant and lightweight."
         }
       },
       "kiosk-2": {
-        "title": "FRP Public Toilet Cabins",
+        "title": "FRP Toilet Cabins",
         "items": {
-          "desc": "Customizable panels for signage and wayfinding — ideal for commercial centers, streets, and airports."
+          "desc": "Customizable panels for advertising or directional signs. Ideal for commercial centers, streets, and airports."
         }
       },
       "manhole": {
-        "title": "FRP Manhole Covers | Lightweight, Anti-Theft Drain Covers",
+        "title": "FRP Manhole Covers | Lightweight, Anti-Theft Drainage",
         "items": {
-          "desc": "Lightweight, theft-resistant, and corrosion-proof — ideal for smart cities and municipal projects."
+          "desc": "Lightweight, theft-resistant, and corrosion-free. Ideal for smart cities and municipal projects."
         }
       },
       "manhole-1": {
-        "title": "Round FRP Manhole Cover",
+        "title": "FRP Manhole Cover",
         "items": {
-          "desc": "Lightweight, non-conductive, and corrosion-resistant sewer cover. Suitable for sidewalks, roads, and pedestrian zones with high load capacity."
+          "desc": "FRP manhole cover — lightweight, non-conductive, and corrosion-resistant. Suitable for sidewalks, roads, and pedestrian zones with high load-bearing capacity."
         }
       },
       "manhole-2": {
-        "title": "Square FRP Manhole Cover | Heavy-Duty Industrial Drainage",
+        "title": "FRP Manhole Grate",
         "items": {
-          "desc": "Engineered for industrial zones, airports, and stormwater networks. Withstands heavy loads, impacts, and chemical exposure while ensuring efficient drainage."
+          "desc": "FRP grate designed for industrial areas, airports, and stormwater networks. Withstands heavy loads, impacts, and chemicals — ensures efficient water drainage."
         }
       },
       "delivery": {
-        "title": "FRP Delivery Boxes | Secure Parcel Lockers",
+        "title": "FRP Delivery Boxes | Delivery Units",
         "items": {
-          "desc": "Secure delivery lockers for safe package handling."
+          "desc": "Secure delivery boxes for parcels."
         }
       },
       "delivery-1": {
-        "title": "FRP Delivery Box | Secure Parcel Locker",
+        "title": "FRP Delivery Box | Delivery Unit",
         "items": {
-          "desc": "Impact-resistant design. The ultimate solution for secure last-mile delivery."
+          "desc": "Impact-resistant. The ultimate solution for secure delivery."
         }
       },
       "metro": {
-        "title": "Metro Train Interior Components | TechnoFiber",
+        "title": "Metro Train Interior Components | Techno Fibre",
         "items": {
-          "desc": "Integrated FRP interior components for metro cars — including seats and flooring. Fire-resistant, lightweight, and easy to clean and maintain."
+          "desc": "Integrated FRP interior components for metro cars by Techno Fibre — including seats and flooring. Fire-resistant, lightweight, and easy to clean and maintain."
         }
       },
       "metro-1": {
-        "title": "FRP Passenger Seats | TechnoFiber",
+        "title": "Metro Train Interior Components | Techno Fibre",
         "items": {
-          "desc": "Comfortably molded FRP seats with anti-slip surface, chemical resistance, and vandal-proof finish — ideal for metro and electric rail systems."
+          "desc": "Passenger seats by Techno Fibre — ergonomic design, anti-slip surface, and chemical resistance. Perfect for metro and electric train systems."
         }
       },
       "tanks": {
-        "title": "FRP Tanks | TechnoFiber",
+        "title": "FRP Tanks | Techno Fibre",
         "items": {
-          "desc": "Custom-engineered FRP tanks by TechnoFiber for storing acids, fuel, and wastewater — leak-proof, corrosion-free, and maintenance-free. The ultimate long-term solution for industrial and commercial facilities requiring reliability and safety."
+          "desc": "Custom FRP tanks by Techno Fibre for storing chemicals, fuel, and wastewater — designed for industrial and commercial applications. Leak-proof, corrosion-resistant, and maintenance-free. The ideal solution for facilities requiring long-term durability and safety."
         }
       },
       "tank-1": {
-        "title": "Vertical FRP Tank | For Chemicals & Water Treatment",
+        "title": "Sectional Panel Tank",
         "items": {
-          "desc": "Vertical cylindrical FRP tank ideal for chemical plants and water treatment stations. Available in capacities from 5,000L to 50,000L. Easy to clean and inspect, zero rust, zero maintenance."
+          "desc": "A vertical fiberglass tank — ideal for water treatment plants and chemical industries. Available in capacities from 5,000 to 50,000 liters with easy cleaning features."
         }
       },
       "tank-2": {
-        "title": "Rectangular/Horizontal FRP Tank | Industrial Storage & Transport",
+        "title": "Modular Panel System Fiberglass Tanks",
         "items": {
-          "desc": "Space-efficient rectangular FRP tank for fuel, water, or wastewater storage and transport. Leak-tested, impact-resistant, and optimized for mobility."
+          "desc": "A square/rectangular fiberglass tank — maximizes space utilization for storage or transport. Suitable for fuel, water, or wastewater."
         }
       },
       "tank-3": {
-        "title": "Spherical FRP Tank",
+        "title": "Spherical Fiberglass Tank",
         "items": {
-          "desc": "Spherical-shaped FRP tank with exceptional pressure and impact resistance. Certified for industrial storage applications."
+          "desc": "A spherical fiberglass tank — distinguished by high resistance to pressure and impact. Subjected to rigorous quality testing and ideal for industrial storage."
         }
       },
       "tank-4": {
-        "title": "Horizontal Cylindrical FRP Tank",
+        "title": "Horizontal Cylindrical Fiberglass Tank",
         "items": {
-          "desc": "Horizontal cylindrical tank suitable for underground or above-ground storage. Leak-proof, lightweight, and easy to install."
+          "desc": "A horizontal cylindrical fiberglass tank — perfect for underground or above-ground storage. Leak-proof, lightweight, and easy to install."
         }
       },
       "tank-5": {
-        "title": "FRP Cooling Towers",
+        "title": "Fiberglass Cooling Towers",
         "items": {
-          "desc": "FRP cooling towers used in factories, hospitals, and water/wastewater treatment plants. Known for durability and corrosion resistance."
+          "desc": "Fiberglass cooling towers — used in factories, hospitals, and water/wastewater treatment systems. Known for durability and exceptional corrosion resistance."
         }
       },
       "playground": {
-        "title": "FRP Children’s Playground Equipment | TechnoFiber",
+        "title": "Children's Playground Equipment Made of Fiberglass | Techno Fibre",
         "items": {
-          "desc": "Outdoor playground equipment made from FRP — non-toxic, weather-resistant, fade-proof, and brightly colored to attract children. Zero rust, zero maintenance. Ideal for public parks, schools, and residential complexes."
+          "desc": "Outdoor playground equipment made of fiberglass (FRP) — manufactured by Techno Fibre to be safe, non-toxic, and weather-resistant. No rust, no fading, vibrant colors to attract children. Ideal for public parks, schools, and residential complexes — with zero maintenance and guaranteed durability."
         }
       },
       "playground-1": {
-        "title": "FRP Climbing Frame | Safe Children's Play Equipment",
+        "title": "FRP Climbing Structures | Safe Children's Play Equipment",
         "items": {
-          "desc": "Climbing structure made from FRP by TechnoFiber — perfect for kindergartens and public parks."
+          "desc": "Climbing structure made by Techno Fibre from fiberglass. Ideal for kindergartens and public parks."
         }
       },
       "playground-2": {
-        "title": "Integrated Slide & Swing Set | Complete FRP Playground Unit",
+        "title": "Integrated Slide & Swing Unit | Complete Play System",
         "items": {
-          "desc": "Complete play unit from TechnoFiber combining slide and swing in one durable FRP structure. Resistant to rust and humidity."
+          "desc": "Complete play unit by Techno Fibre — combining slide and swing in one robust design. Made of fiberglass to resist rust and moisture."
         }
       },
       "default": {
@@ -514,7 +514,7 @@
     },
     "trustSection": {
       "title": "Trusted by Government Institutions",
-      "description": "Our products meet the highest international standards for government and industrial applications, ensuring reliability, durability, and compliance with global quality benchmarks.",
+      "description": "Our products meet the highest standards for government and industrial applications, ensuring reliability, durability, and compliance with international quality standards.",
       "badges": {
         "iso": "ISO Certified",
         "government": "Government Approved",
@@ -522,7 +522,7 @@
       }
     },
     "buttons": {
-      "orderNow": "Request Product Info"
+      "orderNow": "View Products"
     }
   },
 
@@ -532,12 +532,12 @@
     "documentsTitle": "Documents & Downloads",
     "compliance": {
       "title": "Certifications & Compliance",
-      "desc": "Our products are manufactured in compliance with international standards including ISO, ASTM, and EN."
+      "desc": "Our products are manufactured according to international standards..."
     },
     "contactPrompt": "Need more information? Contact us today!",
     "contactPhone": "010 67032423 | 010 16997477",
-    "contactEmail": "technofiber2000@gmail.com",
-    "contactLocation": "Industrial Zone, Plot 403, 3rd Sector, 6th of October City, Giza, Egypt"
+    "contactEmail": "info@technofiberegypt.com",
+    "contactLocation": "Industrial Area, Plot 403, Third Section, 6th of October City, Giza"
   },
 
   "Footer": {

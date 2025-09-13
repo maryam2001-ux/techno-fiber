@@ -38,25 +38,25 @@ const generateBreadcrumbItems = (productSlug, itemSlug, productTitle) => [
     "@type": "ListItem",
     position: 1,
     name: "Home",
-    item: "https://www.technofiber.com"
+    item: "https://www.technofiberegypt.com"
   },
   {
     "@type": "ListItem",
     position: 2,
     name: "Products",
-    item: "https://www.technofiber.com/products"
+    item: "https://www.technofiberegypt.com/products"
   },
   {
     "@type": "ListItem",
     position: 3,
     name: productSlug.charAt(0).toUpperCase() + productSlug.slice(1).replace(/-/g, ' '),
-    item: `https://www.technofiber.com/products/${productSlug}`
+    item: `https://www.technofiberegypt.com/products/${productSlug}`
   },
   {
     "@type": "ListItem",
     position: 4,
     name: productTitle,
-    item: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`
+    item: `https://www.technofiberegypt.com/products/${productSlug}/${itemSlug}`
   }
 ];
 
@@ -68,7 +68,7 @@ export async function generateMetadata({ params }) {
 
   if (!product) {
     return {
-      title: "Product Not Found | TechnoFiber",
+      title: "Product Not Found | TechnoFiber Egypt",
       description: "The product you are looking for does not exist.",
     };
   }
@@ -78,16 +78,16 @@ export async function generateMetadata({ params }) {
   const image = getProductImage(product);
 
   return {
-    title: `${title} | TechnoFiber`,
+    title: `${title} | TechnoFiber Egypt`,
     description,
     openGraph: {
-      title: `${title} | TechnoFiber`,
+      title: `${title} | TechnoFiber Egypt`,
       description,
-      url: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`,
-      siteName: "TechnoFiber",
+      url: `https://www.technofiberegypt.com/products/${productSlug}/${itemSlug}`,
+      siteName: "TechnoFiber Egypt",
       images: [
         {
-          url: `https://www.technofiber.com${image}`,
+          url: `https://www.technofiberegypt.com${image}`,
           width: 1200,
           height: 630,
           alt: title,
@@ -98,12 +98,12 @@ export async function generateMetadata({ params }) {
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} | TechnoFiber`,
+      title: `${title} | TechnoFiber Egypt`,
       description,
-      images: [`https://www.technofiber.com${image}`],
+      images: [`https://www.technofiberegypt.com${image}`],
     },
     alternates: {
-      canonical: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`,
+      canonical: `https://www.technofiberegypt.com/products/${productSlug}/${itemSlug}`,
     },
     robots: {
       index: true,
@@ -139,24 +139,27 @@ export default async function ProductLayout({ children, params }) {
             "@context": "https://schema.org",
             "@type": "Product",
             name: title,
-            image: images.map(img => `https://www.technofiber.com${img}`),
+            image: images.map(img => `https://www.technofiberegypt.com${img}`),
             description: description,
             brand: { 
               "@type": "Brand", 
-              name: "TechnoFiber" 
+              name: "TechnoFiber Egypt" 
             },
             manufacturer: { 
               "@type": "Organization", 
-              name: "TechnoFiber",
-              url: "https://www.technofiber.com"
+              name: "TechnoFiber Egypt",
+              url: "https://www.technofiberegypt.com",
+              email: "info@technofiberegypt.com"
             },
             offers: {
               "@type": "Offer",
               availability: "https://schema.org/InStock",
-              url: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`,
+              url: `https://www.technofiberegypt.com/products/${productSlug}/${itemSlug}`,
               seller: {
                 "@type": "Organization",
-                name: "TechnoFiber"
+                name: "TechnoFiber Egypt",
+                url: "https://www.technofiberegypt.com",
+                email: "info@technofiberegypt.com"
               }
             },
             category: productSlug.charAt(0).toUpperCase() + productSlug.slice(1).replace(/-/g, ' '),

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.technofiber.com/sitemap.xml
+Sitemap: https://www.technofiberegypt.com/sitemap.xml

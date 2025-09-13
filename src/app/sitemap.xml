@@ -2,65 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- الصفحة الرئيسية -->
   <url>
-    <loc>https://www.technofiber.com/</loc>
+    <loc>https://www.technofiberegypt.com/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- صفحة كل منتج -->
+  <!-- صفحات المنتجات -->
   <url>
-    <loc>https://www.technofiber.com/products/grating/grating-1</loc>
+    <loc>https://www.technofiberegypt.com/products/grating/grating-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/grating/grating-2</loc>
+    <loc>https://www.technofiberegypt.com/products/grating/grating-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/handrail/handrail-1</loc>
+    <loc>https://www.technofiberegypt.com/products/handrail/handrail-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/handrail/handrail-2</loc>
+    <loc>https://www.technofiberegypt.com/products/handrail/handrail-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/pultrusion/pultrusion-1</loc>
+    <loc>https://www.technofiberegypt.com/products/pultrusion/pultrusion-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/pultrusion/pultrusion-2</loc>
+    <loc>https://www.technofiberegypt.com/products/pultrusion/pultrusion-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/kiosks/kiosk-1</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/kiosks/kiosk-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/kiosks/kiosk-2</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/kiosks/kiosk-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/manhole/manhole-1</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/manhole/manhole-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/manhole/manhole-2</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/manhole/manhole-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/delivery/delivery-1</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/delivery/delivery-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/metro/metro-1</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/metro/metro-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/metro/metro-2</loc>
-    <priority>0.8</priority>
+    <loc>https://www.technofiberegypt.com/products/metro/metro-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.technofiber.com/products/tanks/tank-1</loc>
+    <loc>https://www.technofiberegypt.com/products/tanks/tank-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>

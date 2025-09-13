@@ -126,7 +126,7 @@ export default function ProductItemClient() {
     if (finalGallery && finalGallery.length > 0) {
       setMainImage(finalGallery[0]);
     }
-  }, [productSlug, itemSlug,finalGallery]); // إزالة product من dependencies لتجنب infinite loop
+  }, [productSlug, itemSlug]); // إزالة product من dependencies لتجنب infinite loop
 
   // --- Animations ---
   const listContainer = {

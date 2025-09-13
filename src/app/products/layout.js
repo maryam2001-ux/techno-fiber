@@ -4,7 +4,7 @@ import Script from "next/script";
 export async function generateMetadata() {
   const title = "Our Fiberglass Products | TechnoFiber";
   const description =
-    "Explore our wide range of fiberglass products including grating, handrails, kiosks, manhole covers, tanks, metro components, and more. Durable and trusted for industrial, civil, and urban projects.";
+    "Explore our wide range of fiberglass (FRP) products including grating, handrails, kiosks, manhole covers, tanks, metro components, and more. Durable and trusted for industrial, civil, and urban projects.";
 
   return {
     title,
@@ -12,11 +12,11 @@ export async function generateMetadata() {
     openGraph: {
       title,
       description,
-      url: "https://www.technofiber.com/products",
+      url: "https://www.technofiberegypt.com/products",
       siteName: "TechnoFiber",
       images: [
         {
-          url: "https://www.technofiber.com/og-image.jpg",
+          url: "https://www.technofiberegypt.com/og-image.jpg",
           width: 1200,
           height: 630,
           alt: "Fiberglass Products",
@@ -37,7 +37,6 @@ export async function generateMetadata() {
         { url: "/Fiberglass-logo.webp", sizes: "180x180", type: "image/webp" },
       ],
     },
-
   };
 }
 
@@ -53,14 +52,15 @@ export default function ProductsLayout({ children }) {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             name: "TechnoFiber",
-            image: "https://www.technofiber.com/logo.png",
-            url: "https://www.technofiber.com",
+            image: "https://www.technofiberegypt.com/logo.png",
+            url: "https://www.technofiberegypt.com",
+            email: "info@technofiberegypt.com",
             telephone: "+20-100-000-0000",
             address: {
               "@type": "PostalAddress",
               streetAddress: "Industrial Zone, Cairo",
               addressLocality: "Cairo",
-              postalCode: "12345",
+              postalCode: "12511",
               addressCountry: "EG",
             },
             openingHours: "Mo-Fr 09:00-17:00",

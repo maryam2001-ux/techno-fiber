@@ -14,7 +14,7 @@ const productImages = {
   handrail: "/products/handrail/Fiberglass-handrail-6.webp",
   pultrusion: "/products/pultrusion/Fiberglass-pultrusion-4.webp",
   kiosks: "/products/kishok/Fiberglass-kishok.webp",
-  manhole: "/products/manhole-cover/Fiberglass-manhole-cover-9.webp",
+  manhole: "/products/manhole-cover/Fiberglass-manhole-cover-6.webp",
   delivery: "/products/delivery/Fiberglass-delivery.webp",
   metro: "/products/metro/Fiberglass-internal-component-metro-railway-12.webp",
   tanks: "/products/tank/Fiberglass-Tanks-4.webp",

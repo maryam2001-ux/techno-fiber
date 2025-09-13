@@ -157,7 +157,7 @@ export default function Contact() {
                       aria-hidden="true"
                     />
                     <a
-                      href="mailto:technofiber2000@gmail.com"
+                      href="mailto:info@technofiberegypt.com"
                       className="text-[var(--grey-dark)] hover:text-[var(--color-darker)] transition-colors focus:outline-none focus:ring-2 focus:ring-[var(--color-primary)]"
                     >
                       {t("generalContact.email")}

@@ -131,11 +131,11 @@ export default function Navbar() {
             <li className="hidden md:flex items-center gap-2">
               <FaEnvelope className="text-[var(--color-primary)]" />
               <a
-                href="mailto:Technofiber2000@gmail.com"
+                href="mailto:info@technofiberegypt.com"
                 className="hover:text-[var(--color-primary)] transition-colors duration-300"
-                aria-label={`${t("email")}: Technofiber2000@gmail.com`}
+                aria-label={`${t("email")}: info@technofiberegypt.com`}
               >
-                Technofiber2000@gmail.com
+                info@technofiberegypt.com
               </a>
             </li>
           </ul>
@@ -186,26 +186,25 @@ export default function Navbar() {
         <div className="container mx-auto px-6 py-3 sm:py-4 flex items-center justify-between">
           {/* ✅ اللوجو كعنوان (SEO + ترجمة) */}
           <motion.div
-  variants={logoVariants}
-  initial="hidden"
-  animate="visible"
->
-  <Link
-    href="/"
-    className="flex items-center"
-    aria-label={`${siteTitle.main} ${siteTitle.sub}`}
-  >
-    <Image
-      src="/Fiberglass-logo.webp" // أو webp لو الملف عندك كده
-      alt={`${siteTitle.main} ${siteTitle.sub}`}
-      width={150} // عدلي المقاس حسب التصميم
-      height={50}
-      priority
-      className="h-auto w-auto"
-    />
-  </Link>
-</motion.div>
-
+            variants={logoVariants}
+            initial="hidden"
+            animate="visible"
+          >
+            <Link
+              href="/"
+              className="flex items-center"
+              aria-label={`${siteTitle.main} ${siteTitle.sub}`}
+            >
+              <Image
+                src="/Fiberglass-logo.webp" // أو webp لو الملف عندك كده
+                alt={`${siteTitle.main} ${siteTitle.sub}`}
+                width={150} // عدلي المقاس حسب التصميم
+                height={50}
+                priority
+                className="h-auto w-auto"
+              />
+            </Link>
+          </motion.div>
 
           {/* Desktop Links */}
           <ul className="hidden md:flex items-center gap-8 font-semibold text-base sm:text-lg">
@@ -246,7 +245,8 @@ export default function Navbar() {
         </div>
       </motion.nav>
 
-      {/* Mobile Menu */} 
+      {/* Mobile Menu */}
+      {/* Mobile Menu */}
       <AnimatePresence>
         {isMenuOpen && (
           <motion.div
@@ -258,8 +258,9 @@ export default function Navbar() {
             role="dialog"
             aria-label={t("toggleMenu")}
           >
+            {/* ✅ تم إضافة onClick هنا */}
             <button
-              onClick={() => setIsMenuOpen(false)}
+              onClick={() => setIsMenuOpen(false)} // 🟢 هذا هو الحل!
               className="absolute top-8 right-8 text-[var(--color-darker)] text-3xl hover:scale-110 transition-transform duration-300"
               aria-label="Close menu"
             >
@@ -279,7 +280,10 @@ export default function Navbar() {
                 >
                   <Link
                     href={getHref(item)}
-                    onClick={(e) => handleScroll(e, getHref(item))}
+                    onClick={(e) => {
+                      handleScroll(e, getHref(item)); // تنفذ السكرول أو التوجه
+                      setIsMenuOpen(false); // ✅ هذا هو السر: إغلاق القائمة فور الضغط
+                    }}
                     className="block text-2xl sm:text-3xl font-bold text-[var(--color-darker)] hover:text-[var(--color-primary)] transition-colors duration-300"
                     aria-label={t(item)}
                   >
