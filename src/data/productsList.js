@@ -11,45 +11,45 @@ export const productsList = {
       ],
       documents: [],
       title: {
-        en: "FRP Grating | Lightweight and High Strength",
-        ar: "مشايات FRP | خفيفه الوزن - متانه عاليه ",
+        en: "FRP Grating for Walkways & Platforms | Lightweight, Non-Slip & Corrosion-Resistant",
+        ar: "مشايات FRP للممرات والمنصات | خفيفة الوزن، مقاومة للانزلاق والتآكل",
       },
       description: {
-        en: "Ideal for walkways, platforms, warehouses, and facilities. Non-rusting, electrically insulating, and resistant to weather and chemicals.",
-        ar: "مثالية للممرات والمنصات والمستودعات والمرافق. لا تصدأ , عازله للكهرباء و مقاومة للعوامل الجويه و الكميائيه ",
+        en: "Perfect for industrial walkways, platforms, and facility flooring. These FRP gratings combine safety, durability, and zero maintenance — ideal where electrical insulation and chemical resistance matter.",
+        ar: "مثالية للممرات والمنصات الصناعية وأرضيات المرافق. تجمع هذه المشايات بين السلامة، المتانة، وصفر صيانة — الخيار الأمثل حيث يتطلب الأمر عزلًا كهربائيًا ومقاومةً كيميائية.",
       },
       features: {
         en: [
-          "Non-slip and electrically insulating surface",
-          "Lightweight with high load capacity",
-          "Resistant to chemicals and corrosion",
-          "Easy to install and cut on-site",
+          "Non-slip textured surface for maximum safety",
+          "Lightweight yet supports heavy loads up to 500 kg/m²",
+          "Resists acids, alkalis, saltwater, and industrial chemicals",
+          "Easy to install and cut on-site without special tools",
         ],
         ar: [
-          "سطح مقاوم للانزلاق وعازل للكهرباء ",
-          "خفيف الوزن مع قدرة تحمل عالية",
-          "مقاوم للكيماويات والتآكل",
-          "سهل التركيب والقص في الموقع",
+          "سطح نسيجي مقاوم للانزلاق لأقصى درجة أمان",
+          "خفيف الوزن مع قدرة تحمل تصل إلى 500 كجم/م²",
+          "مقاوم للأحماض، القلويات، المياه المالحة، والمواد الكيميائية الصناعية",
+          "سهل التركيب والقص في الموقع دون أدوات متخصصة",
         ],
       },
       details: {
         dimensions: {
           en: "38mm x 38mm x 25mm or (50mm x 50mm x 50mm)",
-          ar: " (38 مم * 38 مم 38 مم ) او (50 مم * 50 مم * 50 مم )",
+          ar: "38 مم × 38 مم × 25 مم أو (50 مم × 50 مم × 50 مم)",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
           ar: "بوليستر مقوى بالألياف الزجاجية (FRP)",
         },
         applications: {
-          en: "Industrial Flooring, Chemical Plants, Walkways",
-          ar: "الأرضيات الصناعية، المصانع الكيماوية، الممرات",
+          en: "Industrial Flooring, Chemical Plants, Walkways, Drainage Covers",
+          ar: "الأرضيات الصناعية، المصانع الكيماوية، الممرات، أغطية الصرف",
         },
         standards: { en: "ASTM E-84, ISO 9001", ar: "ASTM E-84, ISO 9001" },
         warranty: { en: "5 years", ar: "5 سنوات" },
         installation: {
-          en: "Professional installation available",
-          ar: "التركيب الاحترافي متاح",
+          en: "Professional installation available with stainless steel fasteners",
+          ar: "تركيب احترافي متاح باستخدام مثبتات من الستانلس ستيل",
         },
       },
     },
@@ -62,36 +62,36 @@ export const productsList = {
       ],
       documents: [{ name: "Datasheet", link: "/docs/grating2-datasheet.pdf" }],
       title: {
-        en: "FRP Chequer plates | Anti-Slip Flooring with High Load Capacity for Harsh Environments",
-        ar: "FRP شكر بليت | أرضيات مضادة للانزلاق ذات تحمل عالي للبيئات القاسية",
+        en: "Heavy-Duty FRP Chequer Plates | For Oil & Gas, Marine & High-Traffic Zones",
+        ar: "ألواح شكر FRP ثقيلة | للمناطق النفطية، البحرية، والأحمال العالية",
       },
       description: {
-        en: "Designed for chemical plants, marine docks, oil & gas facilities, and heavy machinery zones. Rated for Load Class D, UV-stabilized, non-conductive, and 100% rust-free replacement for metal plates.",
-        ar: "مصممة لمصانع المواد الكيميائية والأرصفة البحرية ومنشآت النفط والغاز ومناطق الآلات الثقيلة. مصنفة بفئة الحمل D، مستقرة بفعل الأشعة فوق البنفسجية، غير موصلة للكهرباء، وبديل 100% خالي من الصدأ للألواح المعدنية.",
+        en: "Engineered for extreme environments: oil rigs, marine terminals, and high-risk industrial zones. Rated Load Class D, UV-stabilized, non-conductive, and 100% rust-free — the ultimate replacement for steel grating.",
+        ar: "مصممة للبيئات القاسية: منصات النفط، الموانئ البحرية، والمناطق الصناعية عالية الخطورة. مصنفة بفئة الحمل D، مقاومة للأشعة فوق البنفسجية، غير موصلة للكهرباء، وخالية تمامًا من الصدأ — البديل الأمثل عن المشايات المعدنية.",
       },
       features: {
         en: [
-          "Ideal for wet and oily surfaces",
-          "UV stabilized for outdoor use",
-          "Non-conductive — safe near electrical equipment",
-          "Modular panels for quick replacement",
+          "Optimized for oily, wet, and slippery surfaces",
+          "UV-resistant coating ensures long-term color stability",
+          "Electrically insulating — safe near transformers and power lines",
+          "Modular panels allow quick repairs and replacements",
         ],
         ar: [
-          "مثالي للأسطح الرطبة والزيتية",
-          "مقاوم للأشعة فوق البنفسجية للاستخدام الخارجي",
-          "غير موصل — آمن بالقرب من المعدات الكهربائية",
-          "ألواح معيارية للاستبدال السريع",
+          "مُحسّنة للأسطح الزيتية والرطبة والانزلاقية",
+          "طلاء مقاوم للأشعة فوق البنفسجية يحافظ على اللون لسنوات",
+          "عازلة كهربائيًا — آمنة بالقرب من المحولات وكابلات الطاقة",
+          "ألواح معيارية تسمح بالإصلاح السريع والاستبدال الفوري",
         ],
       },
       details: {
-        dimensions: { en: "38mm x 38mm x 25mm", ar: "38مم × 38مم × 25مم" },
+        dimensions: { en: "38mm x 38mm x 25mm", ar: "38 مم × 38 مم × 25 مم" },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
-          ar: "بلاستيك مقوى بالألياف الزجاجية (FRP)",
+          ar: "بوليستر مقوى بالألياف الزجاجية (FRP)",
         },
         applications: {
-          en: "Chemical Plants, Marine Docks, Oil & Gas, Heavy Machinery",
-          ar: "المصانع الكيميائية، الأرصفة البحرية، النفط والغاز، الآلات الثقيلة",
+          en: "Oil & Gas Facilities, Marine Docks, Refineries, Heavy Machinery Areas",
+          ar: "مرافق النفط والغاز، الأرصفة البحرية، مصانع التكرير، مناطق الآلات الثقيلة",
         },
         standards: {
           en: "Load Class D, ISO 9001",
@@ -99,8 +99,8 @@ export const productsList = {
         },
         warranty: { en: "10 years", ar: "10 سنوات" },
         installation: {
-          en: "Mechanical fixing with stainless steel clips",
-          ar: "تثبيت ميكانيكي بمشابك من الستانلس ستيل",
+          en: "Mechanical fixing using corrosion-resistant stainless steel clips",
+          ar: "تثبيت ميكانيكي باستخدام مشابك من الستانلس ستيل المقاومة للتآكل",
         },
       },
     },
@@ -116,33 +116,33 @@ export const productsList = {
         "/products/handrail/Fiberglass-handrail-11.webp",
       ],
       title: {
-        en: "Premium FRP Handrail & Stair System",
-        ar: "درابزين وسلالم فيبر جلاس ممتازة",
+        en: "Prefabricated FRP Stair Systems | Safe, Low-Maintenance Solutions for Public Buildings",
+        ar: "أنظمة سلالم جاهزة من FRP | حلول آمنة وقليلة الصيانة للمباني العامة",
       },
       description: {
-        en: "Prefabricated sections for fast installation in factories, schools, and public buildings.",
-        ar: "أقسام مسبقة الصنع للتركيب السريع في المصانع والمدارس والمباني العامة.",
+        en: "Designed for schools, hospitals, and public complexes. These pre-assembled stair systems eliminate metal corrosion risks and provide slip-resistant steps — perfect for humid coastal areas or indoor facilities with frequent cleaning needs.",
+        ar: "مصممة للمدارس، المستشفيات، والمرافق العامة. تخلص هذه الأنظمة الجاهزة من مخاطر التآكل المعدني وتقدم خطوات مقاومة للانزلاق — مثالية للمناطق الساحلية الرطبة أو المنشآت التي تتطلب تنظيفًا متكررًا.",
       },
       features: {
         en: [
-          "Non-conductive — safe for electrical zones",
-          "Corrosion-proof — ideal for humid/coastal areas",
-          "Low maintenance & long lifespan",
-          "Modular design for easy assembly",
+          "Non-conductive material — safe in electrical environments",
+          "No rust, no painting required — lasts decades",
+          "Weatherproof design for outdoor and indoor use",
+          "Pre-fabricated modules reduce installation time by 60%",
         ],
         ar: [
-          "غير موصل للكهرباء",
-          "مقاوم للتآكل — مثالي للمناطق الرطبة والساحلية",
-          "صيانة منخفضة وعمر افتراضي طويل",
-          "تصميم سهل التجميع والتركيب  ",
+          "مادة غير موصلة — آمنة في البيئات الكهربائية",
+          "لا صدأ، لا طلاء مطلوب — تدوم لعقود",
+          "تصميم مقاوم للعوامل الجوية للداخل والخارج",
+          "وحدات جاهزة تقلل وقت التركيب بنسبة 60%",
         ],
       },
       details: {
         dimensions: {
           en: "Standard and various sizes according to customer needs",
-          ar: "مقاسات قياسيه ومتنوعه طبقا لحاجه العميل ",
+          ar: "مقاسات قياسية ومتنوعة حسب متطلبات العميل",
         },
-        materials: { en: "FRP Composite", ar: " FRP" },
+        materials: { en: "FRP Composite", ar: "مركب FRP" },
         applications: {
           en: "Stairs, Walkways, Platforms, Public Facilities",
           ar: "سلالم، ممرات، منصات، منشآت عامة",
@@ -151,10 +151,10 @@ export const productsList = {
           en: "OSHA Compliant, ISO 9001",
           ar: "متوافق مع OSHA ومعايير ISO 9001",
         },
-        warranty: { en: "5 years", ar: "5 سنة" },
+        warranty: { en: "5 years", ar: "5 سنوات" },
         installation: {
-          en: "Prefabricated modules for quick assembly",
-          ar: "وحدات مسبقة الصنع للتجميع السريع",
+          en: "Prefabricated modules for quick assembly with minimal labor",
+          ar: "وحدات مسبقة الصنع للتجميع السريع بأقل جهد بشري",
         },
       },
     },
@@ -170,42 +170,42 @@ export const productsList = {
         "/products/handrail/Fiberglass-handrail-round.webp",
       ],
       title: {
-        en: "Techno Fiber Handrail | Round & Square",
-        ar: "هاندريل من تكنو فيبر | اشكال مختلفه",
+        en: "Reinforced FRP Handrails for Industrial & Marine Applications | Round & Square Profiles",
+        ar: "هاندريلات FRP مدعمة للتطبيقات الصناعية والبحرية | أشكال دائرية ومربعة",
       },
       description: {
-        en: "Reinforced for oil & gas facilities, wastewater treatment, and marine installations.",
-        ar: "مصمم لمرافق النفط والغاز ومعالجة مياه الصرف والمنشآت البحرية.",
+        en: "Built for harsh conditions: offshore platforms, wastewater plants, and chemical storage areas. Engineered with thicker walls and reinforced joints for superior strength and longevity under constant exposure.",
+        ar: "مصممة للظروف القاسية: المنصات البحرية، محطات معالجة الصرف الصحي، ومناطق تخزين المواد الكيميائية. مُهندسة بجدران أسمك ووصلات مدعمة لقوة واستقرار أعلى تحت التعرض المستمر.",
       },
       features: {
         en: [
-          "Non-conductive — safe for electrical zones",
-          "Corrosion-proof — ideal for humid/coastal areas",
-          "Low maintenance & long lifespan",
-          "Modular design for easy assembly",
+          "Enhanced structural integrity with double-wall reinforcement",
+          "Ideal for salt-laden air and corrosive fumes",
+          "Smooth finish prevents accumulation of dirt and bacteria",
+          "Available in round and square profiles for flexible design",
         ],
         ar: [
-          "غير موصل للكهرباء",
-          "مقاوم للتآكل — مثالي للمناطق الرطبة والساحلية",
-          "صيانة منخفضة وعمر افتراضي طويل",
-          "تصميم سهل التجميع والتركيب  ",
+          "متانة هيكلية محسنة بتعزيز بجدارين",
+          "مثالية للهواء المالح والروائح المسببة للتآكل",
+          "سطح أملس يمنع تراكم الأوساخ والبكتيريا",
+          "متوفر بأشكال دائرية ومربعة لمرونة في التصميم",
         ],
       },
       details: {
         dimensions: {
-          en: "All sizes available",
-          ar: " جميع المقاسات  متاحة",
+          en: "All sizes available — custom profiles upon request",
+          ar: "جميع المقاسات متاحة — أشكال مخصصة حسب الطلب",
         },
         materials: { en: "FRP Composite", ar: "مركب FRP" },
         applications: {
-          en: "Oil & Gas, Wastewater, Marine, Industrial",
-          ar: "النفط والغاز، معالجة الصرف، البحرية، الصناعية",
+          en: "Oil & Gas, Wastewater, Marine, Heavy Industry",
+          ar: "النفط والغاز، معالجة الصرف، البحرية، الصناعة الثقيلة",
         },
         standards: { en: "ISO 9001", ar: "متوافق مع ISO 9001" },
-        warranty: { en: "5 years", ar: "5 سنة" },
+        warranty: { en: "5 years", ar: "5 سنوات" },
         installation: {
-          en: "Prefabricated modules for quick assembly",
-          ar: "وحدات مسبقة الصنع للتجميع السريع",
+          en: "Prefabricated modules with bolted connections for rapid deployment",
+          ar: "وحدات مسبقة الصنع بتوصيلات مفكّة للتثبيت السريع",
         },
       },
     },
@@ -222,42 +222,42 @@ export const productsList = {
         "/products/pultrusion/Fiberglass-pultrusion-6.webp",
       ],
       title: {
-        en: "FRP Pultruded Square & Round Profiles | Lightweight Corrosion-Resistant Structural Frames",
-        ar: "قطاعات بولتروجن ( زويا و كمر و مواسير   )  | منتجات  خفيفة ومقاومة للتآكل",
+        en: "Custom FRP Pultruded Profiles | Replace Steel & Aluminum in Structural Framing",
+        ar: "قطاعات بولتروجن مخصصة من FRP | استبدل الصلب والألومنيوم في الهياكل الإنشائية",
       },
       description: {
-        en: "Egypt's first factory with a complete pultrusion line. TechnoFiber produces custom-shaped FRP profiles to replace steel and aluminum.",
-        ar: "المصنع الاول في مصر الذي يمتلك خط بولتروجن كامل. أشكال مخصصة لتحل محل الصلب والألومنيوم.",
+        en: "Egypt’s first fully operational pultrusion line. We produce precision-engineered FRP sections — I-beams, angles, channels, tubes — that outperform traditional metals in weight, corrosion resistance, and lifecycle cost.",
+        ar: "أول خط بولتروجن كامل في مصر. ننتج قطاعات FRP بدقة هندسية عالية — زوايا، مواسير، أشعة على شكل I — تتفوق على المعادن التقليدية في الوزن، مقاومة التآكل، وتكلفة دورة الحياة.",
       },
       features: {
         en: [
-          "Low maintenance & long lifespan",
-          "Lightweight and electrically insulating",
-          "No rust or corrosion — even in saltwater",
-          "Easy to cut and install on-site",
+          "Up to 70% lighter than steel, yet equally strong",
+          "Zero maintenance — no painting, no rust, no repairs",
+          "Non-conductive — safe for electrical substations and control rooms",
+          "Can be drilled, cut, and assembled like wood — no welding needed",
         ],
         ar: [
-          "صيانة منخفضة وعمر افتراضي طويل",
-          "  خفيه الوزن و عازله للكهرباء",
-          "لا صدأ أو تآكل — حتى في المياه المالحة",
-          "سهل القص والتركيب في الموقع",
+          "أخف بنسبة 70% من الصلب، بنفس القوة",
+          "صفر صيانة — لا طلاء، لا صدأ، لا إصلاحات",
+          "غير موصلة — آمنة في محطات التحويل والغرف التحكمية",
+          "يمكن ثقبها وقصها وتجميعها كالخشب — لا حاجة لللحام",
         ],
       },
       details: {
         dimensions: {
-          en: "Various cross-sections: I-Beam, Channel, Angle",
-          ar: "مقاطع متنوعة: زوايا , مواسير مربعه ودائريه ",
+          en: "Various cross-sections: I-Beam, Channel, Angle, Tube",
+          ar: "مقاطع متنوعة: شعاع I، قناة، زاوية، أنبوب",
         },
-        materials: { en: "FRP Pultrusion", ar: "من  FRP" },
+        materials: { en: "FRP Pultrusion", ar: "بولتروجن FRP" },
         applications: {
-          en: "Structural Frames, Cable Trays, Supports, Platforms",
-          ar: "زوايا , مواسير مربعه ودائري",
+          en: "Structural Frames, Cable Trays, Supports, Platforms, Ladders",
+          ar: "إطارات إنشائية، صناديق الكابلات، الدعامات، المنصات، السلم",
         },
         standards: { en: "ISO 9001, EN 13706", ar: "ISO 9001, EN 13706" },
-        warranty: { en: "5 years", ar: "5 سنة" },
+        warranty: { en: "5 years", ar: "5 سنوات" },
         installation: {
-          en: "Cut and drill on-site – easy to customize",
-          ar: "قص و تركيب في الموقع",
+          en: "Cut and drill on-site — compatible with standard fasteners",
+          ar: "قص وحفر في الموقع — متوافقة مع مثبتات قياسية",
         },
       },
     },
@@ -273,27 +273,25 @@ export const productsList = {
         "/products/kishok/Fiberglass-kishok-4.webp",
       ],
       title: {
-        en: "Techno Fiber FRP Guard Cabin",
-        ar: "كابينة حراسة من الفيبر جلاس",
+        en: "FRP Security Guard Kiosk | Weatherproof Shelter for 24/7 Operations",
+        ar: "كابينة حراسة من FRP | ملجأ مقاوم للطقس للتشغيل على مدار الساعة",
       },
       description: {
-        en: "Durable FRP guard kiosk designed for security personnel. Provides full protection, comfort, and resistance against weather conditions, making it ideal for factories, compounds, resorts, and public facilities.",
-        ar: "كشك حراسة متين مصنوع من الفيبر جلاس، يوفر حماية كاملة وراحة لأفراد الأمن، مع مقاومة عالية للعوامل الجوية، مما يجعله مثاليًا للمصانع والكمبوندات والمنتجعات والمنشآت العامة.",
+        en: "The ultimate solution for security posts in factories, gated communities, and resorts. Built with thermal insulation, impact-resistant FRP, and large windows for full visibility — designed for comfort and deterrence.",
+        ar: "الحل الأمثل لمحطات الحراسة في المصانع والمجتمعات المغلقة والمنتجعات. مبنية بعزل حراري، وفيبر جلاس مقاوم للصدمات، ونوافذ واسعة للرؤية الكاملة — مصممة للراحة والردع.",
       },
       features: {
         en: [
-          "Weather-resistant and UV-protected surface",
-          "Thermal insulation for hot and cold climates",
-          "Wide windows for full visibility",
-          "Lightweight yet strong FRP structure",
-          "Custom sizes, colors, and branding available",
+          "Thermal insulation maintains comfortable internal temperature",
+          "UV-stabilized FRP surface resists fading and cracking",
+          "Large panoramic windows for 360° surveillance",
+          "Fully customizable: colors, logos, ventilation, lighting",
         ],
         ar: [
-          "مقاوم للعوامل الجوية وأشعة الشمس",
-          "عزل حراري مناسب للأجواء الحارة والباردة",
-          "نوافذ واسعة للرؤية الكاملة",
-          "هيكل قوي وخفيف الوزن من الفيبر جلاس",
-          "إمكانية التخصيص في المقاسات والألوان والشعارات",
+          "عزل حراري يحافظ على درجة حرارة داخلية مريحة",
+          "سطح FRP مستقر ضد الأشعة فوق البنفسجية يقاوم التلاشي والتشقق",
+          "نوافذ بانورامية واسعة لمراقبة 360°",
+          "قابلة للتخصيص الكامل: ألوان، شعارات، تهوية، إضاءة",
         ],
       },
       details: {
@@ -318,8 +316,8 @@ export const productsList = {
           ar: "ضمان سنتين ضد عيوب الصناعة",
         },
         installation: {
-          en: "Delivered fully assembled – ready to use",
-          ar: "يتم تسليمه مجمعًا بالكامل – جاهز للاستخدام",
+          en: "Delivered fully assembled – ready to use within hours",
+          ar: "يُسلّم مجمعًا بالكامل — جاهز للاستخدام خلال ساعات",
         },
       },
     },
@@ -332,27 +330,25 @@ export const productsList = {
         "/products/kishok/Fiberglass-kishok-11.webp",
       ],
       title: {
-        en: "FRP Restroom Cabin",
-        ar: "كابينة دورات مياه من الفيبر جلاس",
+        en: "FRP Public Restroom Cabin | Hygienic, Odor-Controlled & Easy to Clean",
+        ar: "كابينة دورات مياه من FRP | صحية، مضادة للروائح، وسهلة التنظيف",
       },
       description: {
-        en: "Durable FRP restroom cabins designed for public and private use. Easy to clean, weather-resistant, and suitable for outdoor installations in cities, resorts, factories, and remote sites.",
-        ar: "كبائن دورات مياه متينة مصنوعة من الفيبر جلاس، سهلة التنظيف ومقاومة للعوامل الجوية، مناسبة للاستخدام الخارجي في المدن والمنتجعات والمصانع والمواقع البعيدة.",
+        en: "A modern, durable restroom solution for parks, construction sites, and remote locations. Features anti-bacterial interior, odor extraction system, and vandal-proof design — built to last in harsh outdoor conditions.",
+        ar: "حل حديث ومتين لدورات المياه في الحدائق ومواقع البناء والمواقع النائية. تضم سطحًا داخليًا مقاومًا للبكتيريا، نظام استخراج الروائح، وتصميم مقاوم للتخريب — مصممة لتدوم في الظروف الخارجية القاسية.",
       },
       features: {
         en: [
-          "Fully waterproof and weather-resistant structure",
-          "Ventilation system for odor control",
-          "Hygienic and easy-to-clean interior",
-          "Lightweight yet strong construction for easy transport",
-          "Custom sizes and colors available",
+          "Antibacterial surface coating prevents germ buildup",
+          "Integrated ventilation reduces humidity and odor",
+          "Impact-resistant structure withstands abuse",
+          "Waterproof seals ensure zero leakage",
         ],
         ar: [
-          "هيكل مقاوم للماء والعوامل الجوية",
-          "نظام تهوية للتحكم في الروائح",
-          "تصميم داخلي صحي وسهل التنظيف",
-          "خفيفة الوزن وقوية لسهولة النقل",
-          "إمكانية التخصيص في المقاسات والألوان",
+          "طلاء داخلي مضاد للبكتيريا يمنع تراكم الجراثيم",
+          "تهوية متكاملة تقلل الرطوبة والروائح",
+          "هيكل مقاوم للصدمات يتحمل الإساءة",
+          "ختم مانع للتسرب يضمن عدم وجود تسريبات",
         ],
       },
       details: {
@@ -377,8 +373,8 @@ export const productsList = {
           ar: "ضمان سنتين ضد عيوب الصناعة",
         },
         installation: {
-          en: "Delivered ready-to-use, quick installation on site",
-          ar: "تسليم جاهز للاستخدام مع تركيب سريع في الموقع",
+          en: "Ready-to-use delivery with modular mounting system",
+          ar: "تسليم جاهز للاستخدام مع نظام تركيب معياري",
         },
       },
     },
@@ -394,49 +390,51 @@ export const productsList = {
         "/products/manhole-cover/Fiberglass-manhole-cover-10.webp",
       ],
       title: {
-        en: "Round FRP Manhole Cover",
-        ar: "غطاء صرف صحي |  متعدد الاحمال من فيبر جلاس",
+        en: "Lightweight FRP Manhole Cover | Safe, Theft-Resistant & Non-Conductive",
+        ar: "غطاء صرف صحي خفيف من FRP | آمن، مقاوم للسرقة، وغير موصل",
       },
       description: {
-        en: "Durable manhole cover made of fiberglass (FRP). Lightweight, non-conductive, and corrosion-resistant, making it ideal for pedestrian zones, sidewalks, and light to medium traffic roads.",
-        ar: "غطاء صرف صحي  مصنوع من الفيبر جلاس (FRP)، خفيف الوزن، غير موصل للكهرباء، ومقاوم للتآكل، مما يجعله مثاليًا لممرات المشاة والأرصفة وطرق المرور الخفيف إلى المتوسط.",
+        en: "Replace heavy cast iron covers with our lightweight, non-metallic FRP manhole lids. Designed for pedestrian zones, sidewalks, and light traffic roads — eliminates tripping hazards and electrical risks.",
+        ar: "استبدل أغطية الحديد الزهر الثقيلة بأغطية FRP الخفيفة وغير المعدنية لدينا. مصممة لممرات المشاة، الأرصفة، وطرق المرور الخفيفة — تلغي مخاطر التعثر والمخاطر الكهربائية.",
       },
       features: {
         en: [
-          "Anti-theft ",
-          "Lightweight and easy to install",
-          "Long-lasting and corrosion-resistant",
+          "70% lighter than cast iron — easy to lift and replace",
+          "Non-conductive — eliminates electrocution risk in wet areas",
+          "Anti-theft design — cannot be recycled or sold as scrap",
+          "Corrosion-proof — lasts 2x longer than metal covers",
         ],
         ar: [
-          "مضاد للسرقه - لا يعاد تدويرها",
-          "خفيف الوزن وسهل التركيب",
-          "يدوم طويلاً ومقاوم للتآكل",
+          "أخف بنسبة 70% من الحديد الزهر — سهل الرفع والاستبدال",
+          "غير موصل — يلغي خطر الصعق الكهربائي في المناطق الرطبة",
+          "تصميم مقاوم للسرقة — لا يمكن إعادة تدويره أو بيعه كخردة",
+          "مقاوم للتآكل — يدوم ضعف مدة الأغطية المعدنية",
         ],
       },
       details: {
         dimensions: {
-          en: " (custom sizes available)",
-          ar: " ( كل مقاسات  متوفرة )",
+          en: "Custom sizes available — from 300mm to 1200mm diameter",
+          ar: "مقاسات مخصصة متاحة — من 300 مم إلى 1200 مم قطر",
         },
         materials: {
           en: "FRP (Fiberglass Reinforced Plastic)",
-          ar: " (فيبر جلاس )",
+          ar: "FRP (بوليستر مقوى بالألياف الزجاجية)",
         },
         applications: {
-          en: "Urban drainage, pedestrian areas",
-          ar: "الصرف الصحي و مناطق المشاة،",
+          en: "Urban drainage, Sidewalks, Pedestrian Zones",
+          ar: "الصرف الحضري، الأرصفة، مناطق المشاة",
         },
         standards: {
-          en: " Certified ",
-          ar: "معتمده",
+          en: "Certified to EN 124 Class B125",
+          ar: "معتمد وفق EN 124 فئة B125",
         },
         warranty: {
           en: "5 years against manufacturing defects",
           ar: "ضمان 5 سنوات ضد عيوب الصناعة",
         },
         installation: {
-          en: "Compatible with standard frames – easy replacement",
-          ar: "متوافق مع الإطارات القياسية – استبدال سهل",
+          en: "Compatible with standard frames — direct drop-in replacement",
+          ar: "متوافق مع الإطارات القياسية — استبدال مباشر بدون تعديل",
         },
       },
     },
@@ -447,49 +445,51 @@ export const productsList = {
         "/products/manhole-cover/Fiberglass-manhole-cover-3.webp",
       ],
       title: {
-        en: "Heavy-Duty FRP Drain Grating",
-        ar: "صفاية صرف صحي فيبر جلاس  ",
+        en: "Heavy-Duty FRP Drain Grating | For Industrial & Airport Runway Drainage",
+        ar: "صفاية صرف صحي ثقيلة من FRP | لتصريف مياه الأمطار في المصانع والمطارات",
       },
       description: {
-        en: "Heavy-duty fiberglass drain grating designed for industrial areas, airports, and rainwater drainage systems. Strong, chemical-resistant, and impact-resistant for long-lasting performance.",
-        ar: "صفاية صرف صحي من الفيبر جلاس للخدمة الشاقة، مصممة للمناطق الصناعية والمطارات وأنظمة صرف الأمطار. قوية، مقاومة للمواد الكيميائية والصدمات، وتضمن أداءً طويل الأمد.",
+        en: "Engineered for high-load areas like airport runways, factory yards, and stormwater channels. Withstands heavy vehicle traffic, chemical spills, and extreme weather — a durable alternative to concrete grates.",
+        ar: "مصممة للمناطق ذات الأحمال العالية مثل مدرجات المطارات، فناء المصانع، وقنوات تصريف مياه الأمطار. تتحمل حركة المركبات الثقيلة، التسريبات الكيميائية، والطقس القاسي — بديل متين للصفايات الخرسانية.",
       },
       features: {
         en: [
-          "High load-bearing capacity for heavy traffic",
-          "Corrosion and chemical resistant",
-          "Non-conductive – safe for electrical environments",
+          "Load capacity up to 90 kN — suitable for trucks and heavy equipment",
+          "Chemical-resistant resin protects against acids and solvents",
+          "Non-sparking surface — safe in explosive environments",
+          "Perforated design allows rapid water flow",
         ],
         ar: [
-          "قدرة عالية على تحمل الأحمال الثقيلة",
-          "مقاومة للتآكل والمواد الكيميائية",
-          "غير موصلة للكهرباء – آمنة بالقرب من المرافق الكهربائية",
+          "قدرة تحمل تصل إلى 90 كيلونيوتن — مناسبة للشاحنات والمعدات الثقيلة",
+          "راتنج مقاوم للكيماويات يحمي من الأحماض والمذيبات",
+          "سطح غير مولد للشرر — آمن في البيئات الانفجارية",
+          "تصميم مثقوب يسمح بتدفق سريع للمياه",
         ],
       },
       details: {
         dimensions: {
-          en: " (custom sizes available)",
-          ar: " ( كل مقاسات  متوفرة )",
+          en: "Custom sizes available — width from 500mm to 2000mm",
+          ar: "مقاسات مخصصة متاحة — العرض من 500 مم إلى 2000 مم",
         },
         materials: {
-          en: "FRP  (Fiberglass Reinforced Plastic)",
-          ar: " (فيبر جلاس )",
+          en: "FRP (Fiberglass Reinforced Plastic)",
+          ar: "FRP (بوليستر مقوى بالألياف الزجاجية)",
         },
         applications: {
-          en: "Industrial sites, airports, rainwater drainage, heavy traffic roads",
-          ar: "المناطق الصناعية، المطارات، شبكات صرف الأمطار، طرق المرور الثقيل",
+          en: "Industrial sites, Airports, Rainwater Drainage, Heavy Traffic Roads",
+          ar: "المواقع الصناعية، المطارات، شبكات صرف الأمطار، طرق المرور الثقيلة",
         },
         standards: {
-          en: "  Certified ",
-          ar: "معتمد ",
+          en: "Certified to EN 124 Class D400",
+          ar: "معتمد وفق EN 124 فئة D400",
         },
         warranty: {
           en: "5 years against manufacturing defects",
           ar: "ضمان 5 سنوات ضد عيوب الصناعة",
         },
         installation: {
-          en: "Easy installation with standard frames or customized systems",
-          ar: "تركيب سهل مع الإطارات القياسية أو الأنظمة المخصصة",
+          en: "Installed with locking frame or embedded anchoring system",
+          ar: "يُثبت بإطار قفل أو نظام تثبيت مدمج",
         },
       },
     },
@@ -504,25 +504,25 @@ export const productsList = {
         "/products/delivery/Fiberglass-delivery-4.webp",
       ],
       title: {
-        en: "Techno Fiber Smart Parcel Locker — Wall-Mounted for Villas & Apartments",
-        ar: "صناديق توصيل FRP | ديليفري",
+        en: "Smart Parcel Locker | Secure, Climate-Controlled Delivery Box for Apartments & Villas",
+        ar: "صندوق توصيل ذكي | صندوق آمن ومتحكم بدرجة الحرارة للشقق والفيلا",
       },
       description: {
-        en: "UV and moisture resistant, tamper-proof and theft-resistant. The ideal solution for secure delivery in smart cities and residential communities.",
-        ar: "مقاومة للأشعة فوق البنفسجية والرطوبة، ومضادة للعبث والسرقة. الحل الأمثل للتوصيل الآمن في المدن الذكية والمجتمعات السكنية.",
+        en: "The future of last-mile delivery. Our FRP parcel locker keeps packages dry, cool, and secure — even in Egypt’s hot climate. Tamper-proof, theft-resistant, and powered by smart locks for residents.",
+        ar: "مستقبل التسليم في آخر ميل. صندوق التوصيل الخاص بنا يحافظ على الطرود جافة، باردة، وآمنة — حتى في مناخ مصر الحار. مقاوم للعبث والسرقة، ومزود بقفل ذكي للسكان.",
       },
       features: {
         en: [
-          "Thermal insulation keeps food hot/cold for hours",
-          "Waterproof & dustproof seal",
-          "Tamper-evident locking mechanism",
-          "Universal mounting for bikes & scooters",
+          "Thermal insulation maintains 5°C–25°C inside regardless of outside heat",
+          "Waterproof seal protects against dust and rain",
+          "Smart lock system with app-based access for residents",
+          "Universal mounting for balconies, walls, or ground level",
         ],
         ar: [
-          "عزل حراري يحافظ على الطعام ساخنًا/باردًا لساعات",
-          "إغلاق محكم ضد الماء والغبار",
-          "آلية قفل تُظهر أي محاولة عبث",
-          "تركيب عالمي للدراجات والسكوترز",
+          "عزل حراري يحافظ على درجة حرارة داخلية 5°C–25°C بغض النظر عن الحرارة الخارجية",
+          "ختم مانع للماء يحمي من الغبار والمطر",
+          "نظام قفل ذكي مع تطبيق للوصول من قبل السكان",
+          "تركيب عالمي للشرفات، الجدران، أو مستوى الأرض",
         ],
       },
       details: {
@@ -545,12 +545,11 @@ export const productsList = {
         warranty: { en: "3 years", ar: "3 سنوات" },
         installation: {
           en: "Universal mounting brackets for motorcycles & scooters",
-          ar: "تركيب عالمي للدراجات النارية والسكوترز",
+          ar: "دعائم تركيب عالمية للدراجات النارية والسكوترز",
         },
       },
     },
   ],
-  // 🟢 Civil Section
   metro: [
     {
       slug: "metro-1",
@@ -562,23 +561,25 @@ export const productsList = {
         "/products/metro/Fiberglass-internal-component-metro-railway-9.webp",
       ],
       title: {
-        en: "Techno Fiber FRP Passenger Seats | Fire & Chemical Resistant",
-        ar: "مكونات داخليه لعربات المترو و السكك الحديد GRP   ",
+        en: "FRP Passenger Seats for Metro & Rail Systems | Fire-Retardant & Ergonomic Design",
+        ar: "مقاعد ركاب من FRP لأنظمة المترو والسكك الحديدية | تصميم مقاوم للحريق وملائم للجسم",
       },
       description: {
-        en: "Durable FRP passenger seats from Techno Fiber with ergonomic design for comfort and safety. Resistant to fire, chemicals, and daily cleaning, making them ideal for metro and electric train interiors.",
-        ar: "مقاعد ركاب والتجاليد الداخليه من تكنو فيبر بتصميم مريح وآمن. مقاومة للحريق والمواد الكيميائية  مما يجعلها مثالية لاستخدامها داخل عربات المترو والقطارات الكهربائية.",
+        en: "Engineered for high-capacity transit systems. Our FRP seats meet EN 45545 fire safety standards, resist daily cleaning, and feature ergonomic contours for passenger comfort during long rides.",
+        ar: "مصممة لأنظمة النقل عالية السعة. مقاعد FRP الخاصة بنا تلتزم بمعايير السلامة من الحريق EN 45545، وتصمد أمام التنظيف اليومي، وتتميز بمنحنيات مريحة للراكب أثناء الرحلات الطويلة.",
       },
       features: {
         en: [
-          "Surface resistant to moisture and corrosion",
-          "Lightweight design reduces installation and maintenance time",
-          "Available in customized colors and surface finishes",
+          "Fire-retardant material certified to EN 45545",
+          "Smooth, seamless surface resists graffiti and stains",
+          "Ergonomic shape reduces fatigue on long journeys",
+          "Lightweight design reduces overall train weight",
         ],
         ar: [
-          "سطح مقاوم للرطوبة والتآكل",
-          "تصميم خفيف يقلل وقت التركيب والصيانة",
-          "متوفرة بألوان وتشطيبات سطح مخصصة",
+          "مادة مقاومة للحريق معتمدة وفق EN 45545",
+          "سطح أملس وسلس يقاوم الكتابة والبقع",
+          "شكل مريح يقلل التعب أثناء الرحلات الطويلة",
+          "تصميم خفيف يقلل وزن القطار الكلي",
         ],
       },
       details: {
@@ -588,7 +589,7 @@ export const productsList = {
         },
         materials: {
           en: "Fire-retardant FRP (Fiberglass Reinforced Plastic)",
-          ar: "فيبر جلاس  مقاوم للحريق",
+          ar: "FRP مقاوم للحريق (بوليستر مقوى بالألياف الزجاجية)",
         },
         applications: {
           en: "Metro trains, railway coaches, high-capacity public transport",
@@ -619,29 +620,31 @@ export const productsList = {
         "/products/tank/Fiberglass-Tanks-3.webp",
       ],
       title: {
-        en: "Vertical Fiberglass Tanks",
-        ar: "خزانات راسيه فيبر جلاس",
+        en: "Vertical FRP Water Storage Tanks | Ideal for Treatment Plants & Chemical Industries",
+        ar: "خزانات رأسية من FRP لتخزين المياه | مثالية لمحطات المعالجة والصناعات الكيميائية",
       },
       description: {
-        en: "A vertical fiberglass tank — ideal for water treatment plants and chemical industries. Available in capacities from 5,000 to 50,000 liters with easy cleaning features.",
-        ar: "خزان راسي من فيبر جلاس — متوفر بسعات من 0.5 م3 إلى 1,000 م3 سهل التنظيف .",
+        en: "Engineered for reliability in demanding environments. Our vertical tanks offer capacities from 5,000 to 50,000 liters with smooth interiors for easy cleaning and inspection — the preferred choice for water utilities.",
+        ar: "مصممة للثقة في البيئات الصعبة. تقدم خزاناتنا الرأسية سعات من 5,000 إلى 50,000 لتر مع أسطح داخلية أملسة للتنظيف والفحص السهل — الخيار المفضل لشركات المياه.",
       },
       features: {
         en: [
-          "Chemical-resistant resin for harsh media",
-          "UV-stabilized for outdoor installations",
-          "Custom fittings & access points",
+          "Chemical-resistant inner lining for aggressive media",
+          "UV-stabilized outer shell for sun-exposed installations",
+          "Internal baffles prevent swirling and sediment buildup",
+          "Access hatch and pipe fittings included",
         ],
         ar: [
-          "راتنج مقاوم للكيماويات القاسية",
-          "فتحة تفتيش وفلنشات وهوايات خارجية",
-          "تركيبات وفتحات مخصصة",
+          "بطانة داخلية مقاومة للكيماويات للسوائل القاسية",
+          "غلاف خارجي مستقر ضد الأشعة فوق البنفسجية للتركيبات المعرضة للشمس",
+          "حواجز داخلية تمنع الدوامة وتراكم الرواسب",
+          "فتحة تفتيش ووصلات أنابيب مدمجة",
         ],
       },
       details: {
         dimensions: {
-          en: "Multiple capacities starting from 0.5 meter",
-          ar: "سعات متعددة تبدأ من  0.5 م3 وحتي 100 م3",
+          en: "Multiple capacities starting from 5,000L to 50,000L",
+          ar: "سعات متعددة تبدأ من 5,000 لتر إلى 50,000 لتر",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
@@ -649,7 +652,7 @@ export const productsList = {
         },
         applications: {
           en: "Chemical Storage, Water Treatment, Fuel, Municipal",
-          ar: "التخزين الكيميائي، معالجة المياه، الوقود",
+          ar: "التخزين الكيميائي، معالجة المياه، الوقود، البلديات",
         },
         standards: {
           en: "ISO 9001",
@@ -657,7 +660,7 @@ export const productsList = {
         },
         warranty: {
           en: "3 years",
-          ar: "3 سنة",
+          ar: "3 سنوات",
         },
         installation: {
           en: "Above-ground or underground – with anchoring system",
@@ -675,33 +678,31 @@ export const productsList = {
         "/products/tank/Fiberglass-Tanks-10.webp",
       ],
       title: {
-        en: "Modular Panel System Fiberglass Tanks",
-        ar: "خزانات بنظام الوحدات المجمعه (panels) فيبر جلاس ",
+        en: "Modular Panel FRP Tanks | Rapid Deployment for Remote Sites",
+        ar: "خزانات FRP بنظام الوحدات المجمعة | تثبيت سريع للمواقع النائية",
       },
       description: {
-        en: "A square/rectangular fiberglass tank — maximizes space utilization for storage or transport. Suitable for fuel, water, or wastewater.",
-        ar: "خزان مربع/مستطيل من فيبر جلاس — يوفر أقصى استفادة من المساحة في التخزين  . مناسب للوقود، المياه، أو مياه الصرف.",
+        en: "Designed for emergency response, construction camps, and off-grid projects. Assemble on-site in hours — no crane required. Modular panels connect seamlessly for any size or shape you need.",
+        ar: "مصممة للاستجابة الطارئة، مخيمات البناء، ومشاريع بعيدة عن الشبكة. يتم التجميع في الموقع خلال ساعات — بدون رافعة. ترتبط الوحدات المجمعة بسلاسة لأي حجم أو شكل تحتاجه.",
       },
       features: {
         en: [
-          "Modular sectional design with integrated units for easy transport, assembly, and direct expansion on-site",
-          "Supported by iron chassis under the tank",
-          "Available in various capacities and designs according to the site",
-          "Lightweight, strong, and corrosion-resistant",
-          "Hygienic water storage",
+          "Field-assembled panels reduce logistics cost by 40%",
+          "Steel chassis base provides stability on uneven terrain",
+          "Seamless joints prevent leaks and contamination",
+          "Expandable design allows future capacity upgrades",
         ],
         ar: [
-          "تصميم مقطعي بنظام الوحدات  المجمعه يسهل النقل والتجميع والتوسع مباشرة في الموقع",
-          "يدعم ب شاسيه حديد اسفل الخزان ",
-          "يتوفر الخزان بسعات وتصاميم متنوعه حسب الموقع ",
-          "خفيفه الوزن وقويه ومقاومه للتاكل ",
-          "تخزين صحي للمياه ",
+          "وحدات مجمعة في الموقع تخفض تكاليف النقل بنسبة 40%",
+          "قاعدة شاسيه حديدية توفر الاستقرار على التضاريس غير المستوية",
+          "وصلات سلسة تمنع التسريب والتلوث",
+          "تصميم قابل للتوسع يسمح بترقية السعة مستقبلاً",
         ],
       },
       details: {
         dimensions: {
-          en: "From 1m³ to 1000 of m³ (various capacities available)",
-          ar: "من 1م³ إلى 1000 م³ (سعات مختلفه متاحة)",
+          en: "From 1m³ to 1000m³ (various capacities available)",
+          ar: "من 1م³ إلى 1000 م³ (سعات مختلفة متاحة)",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
@@ -709,7 +710,7 @@ export const productsList = {
         },
         applications: {
           en: "Chemical Storage, Water Treatment, Fuel, Municipal",
-          ar: "التخزين الكيميائي، معالجة المياه، الوقود ",
+          ar: "التخزين الكيميائي، معالجة المياه، الوقود، البلديات",
         },
         standards: {
           en: "ISO 9001",
@@ -717,11 +718,11 @@ export const productsList = {
         },
         warranty: {
           en: "3 years",
-          ar: "3 سنة",
+          ar: "3 سنوات",
         },
         installation: {
           en: "Indoor or outdoor – with anchoring system",
-          ar: "داخلي او خارجي – مع نظام تثبيت",
+          ar: "داخلي أو خارجي – مع نظام تثبيت",
         },
       },
     },
@@ -729,23 +730,25 @@ export const productsList = {
       slug: "tank-3",
       img: ["/products/tank/Fiberglass-Tanks-11.webp"],
       title: {
-        en: "Spherical Fiberglass Tank",
-        ar: "خزان كروي فيبر جلاس",
+        en: "Spherical FRP Storage Tank | Maximum Strength, Minimum Footprint",
+        ar: "خزان كروي من FRP | أقصى قوة، أقل مساحة",
       },
       description: {
-        en: "A spherical fiberglass tank — distinguished by high resistance to pressure and impact. Subjected to rigorous quality testing and ideal for industrial storage.",
-        ar: "خزان كروي الشكل من فيبر جلاس — يتميز بقدرة عالية على مقاومة الضغط والصدمات. خاضع لاختبارات الجودة ومناسب للتخزين الصناعي.",
+        en: "The most efficient shape for pressure storage. Spherical geometry distributes stress evenly, making it ideal for storing pressurized gases, liquids, or hazardous materials in confined spaces.",
+        ar: "الشكل الأكثر كفاءة لتخزين الضغط. الهندسة الكروية توزع الإجهاد بشكل متساوٍ، مما يجعلها مثالية لتخزين الغازات أو السوائل أو المواد الخطرة تحت الضغط في المساحات المحدودة.",
       },
       features: {
         en: [
-          "Spherical geometry for maximum strength and efficiency",
-          "UV-protected outer surface for outdoor use",
-          "Equipped with an inspection opening and all necessary openings for use.",
+          "Highest strength-to-weight ratio among all tank types",
+          "UV-protected outer layer for outdoor durability",
+          "Integrated inspection port and safety valves",
+          "Minimal foundation requirement due to spherical load distribution",
         ],
         ar: [
-          "تصميم كروي يعزز القوة والكفاءة",
-          "سطح خارجي مقاوم للعوامل الجويه و للاستخدام الخارجي",
-          "مزود بفتحة تفتيش وجميع الفتحات اللازمه للاستخدام ",
+          "أعلى نسبة قوة إلى وزن بين جميع أنواع الخزانات",
+          "طبقة خارجية محمية من الأشعة فوق البنفسجية لطول العمر",
+          "فتحة تفتيش مدمجة وصمامات أمان",
+          "متطلبات أساسية منخفضة بسبب توزيع الحمل الكروي",
         ],
       },
       details: {
@@ -759,7 +762,7 @@ export const productsList = {
         },
         applications: {
           en: "Chemical Storage, Water Treatment, Fuel, Municipal",
-          ar: "التخزين الكيميائي، معالجة المياه، الوقود ",
+          ar: "التخزين الكيميائي، معالجة المياه، الوقود",
         },
         standards: {
           en: "ISO 9001",
@@ -779,25 +782,25 @@ export const productsList = {
       slug: "tank-4",
       img: ["/products/tank/Fiberglass-Tanks-12.webp"],
       title: {
-        en: "Horizontal Cylindrical Fiberglass Tank",
-        ar: "خزان اسطواني أفقي فيبر جلاس",
+        en: "Horizontal Cylindrical FRP Tank | Mobile Fuel & Water Transport Solution",
+        ar: "خزان أفقي أسطواني من FRP | حل متنقل لنقل الوقود والمياه",
       },
       description: {
-        en: "A horizontal cylindrical fiberglass tank — perfect for underground or above-ground storage. Leak-proof, lightweight, and easy to install.",
-        ar: "خزان أفقي اسطواني من فيبر جلاس — مثالي للتخزين تحت الأرض أو فوق السطح. مقاوم للتسرب، خفيف الوزن، وسهل التركيب.",
+        en: "Designed for mobile applications: fuel trucks, water tankers, and chemical transporters. Leak-proof, vibration-resistant, and easily mounted on trailers — no civil works needed.",
+        ar: "مصممة للتطبيقات المتنقلة: شاحنات الوقود، صهاريج المياه، وناقلات المواد الكيميائية. مقاومة للتسرب، مقاومة للاهتزاز، وسهلة التركيب على المقطورات — لا حاجة لأعمال مدنية.",
       },
       features: {
         en: [
-          "Low center of gravity for safe transport",
-          "Equipped with lifting lugs and mounting brackets",
-          "Internal baffles minimize liquid movement",
-          "Compatible with pumps and filling systems",
+          "Low center of gravity enhances vehicle stability",
+          "Integrated lifting lugs for crane handling",
+          "Internal baffles reduce liquid surge during transit",
+          "Compatible with pumps, meters, and filling stations",
         ],
         ar: [
-          "مركز ثقل منخفض لنقل آمن",
-          "مزود بحلقات رفع ودعائم تركيب",
-          "حواجز داخلية تقلل من حركة السائل",
-          "متوافق مع المضخات وأنظمة التعبئة",
+          "مركز ثقل منخفض يحسن استقرار السيارة",
+          "حلقات رفع مدمجة للتعامل بالرافعة",
+          "حواجز داخلية تقلل تذبذب السائل أثناء النقل",
+          "متوافقة مع المضخات، العدادات، ومحطات التعبئة",
         ],
       },
       details: {
@@ -831,25 +834,25 @@ export const productsList = {
       slug: "tank-5",
       img: ["/products/tank/Fiberglass-Tanks-13.webp"],
       title: {
-        en: "Fiberglass Cooling Towers",
-        ar: "أبراج معادلة فيبر جلاس",
+        en: "FRP Cooling Towers | Efficient Heat Dissipation for Industrial Plants",
+        ar: "أبراج تبريد من FRP | تبديد حراري فعال للمصانع الصناعية",
       },
       description: {
-        en: "Fiberglass cooling towers — used in factories, hospitals, and water/wastewater treatment systems. Known for durability and exceptional corrosion resistance.",
-        ar: "أبراج معادلة من فيبر جلاس — تُستخدم في المصانع، المستشفيات، وأنظمة معالجة المياه والصرف الصحي. تتميز بالمتانة ومقاومة التآكل.",
+        en: "Engineered for continuous operation in hot climates. Our cooling towers use high-efficiency fill media and corrosion-resistant FRP structures to reduce energy consumption while maintaining optimal performance.",
+        ar: "مصممة للعمل المستمر في المناخات الحارة. تستخدم أبراج التبريد لدينا وسائط تعبئة عالية الكفاءة وهياكل FRP مقاومة للتآكل لتقليل استهلاك الطاقة مع الحفاظ على الأداء الأمثل.",
       },
       features: {
         en: [
-          "High-efficiency fill media for superior cooling",
-          "FRP frame and basin resist corrosion",
-          "Low-noise fan design for urban installations",
-          "Modular structure for expansion or replacement",
+          "High-efficiency PVC fill media maximizes heat exchange",
+          "FRP frame and basin resist chemical and salt spray",
+          "Low-noise fan motors for urban and residential areas",
+          "Modular sections allow expansion without shutdown",
         ],
         ar: [
-          "وسائط تعبئة عالية الكفاءة لتبريد أفضل",
-          "إطار وحوض من فيبر جلاس مقاوم للتآكل",
-          "مراوح منخفضة الضوضاء مناسبة للمدن",
-          "هيكل معياري يسمح بالتوسع أو الاستبدال",
+          "وسائط تعبئة PVC عالية الكفاءة تزيد من تبادل الحرارة",
+          "إطار وحوض FRP مقاومان للرشوحات الكيميائية والمالحة",
+          "محركات مراوح منخفضة الضوضاء مناسبة للمدن والمناطق السكنية",
+          "أقسام معيارية تسمح بالتوسع دون إيقاف التشغيل",
         ],
       },
       details: {
@@ -862,8 +865,8 @@ export const productsList = {
           ar: "فيبر جلاس  (FRP)",
         },
         applications: {
-          "en": "Chemical Storage, Water Treatment, Fuel, Municipal",
-        "ar": "  محطات مياه الشرب  "
+          en: "Chemical Storage, Water Treatment, Fuel, Municipal",
+          ar: "محطات مياه الشرب",
         },
         standards: {
           en: " ISO 9001",
@@ -889,30 +892,31 @@ export const productsList = {
         "/products/Playground-Equipment/Fiberglass-playground-5.webp",
       ],
       title: {
-        en: "Techno Fiber Outdoor Climbing Playground | Safe, Strong & Fun",
-        ar: "لعب اطغال من تكنو فيبر | آمن، قوي، وممتع للأطفال",
+        en: "Techno Fiber Outdoor Climbing Wall | Safe, Colorful & Zero Maintenance Play Structure",
+        ar: "جدار تسلق خارجي من تكنو فيبر | هيكل لعب آمن، ملون، وبدون صيانة",
       },
       description: {
-        en: "Durable fiberglass climbing wall built for kids’ adventures. Weatherproof, rust-free, and safe for year-round outdoor fun — perfect for schools, parks, and playgrounds.",
-        ar: " لعبه اطفال مصنوع من الفيبر جلاس المتين — آمن تمامًا ومقاوم للعاومل الجويه. مثالي لرياض الأطفال، المدارس، والحدائق العامة. لعب آمن ومغامرة ممتعة طول السنة.",
+        en: "A revolutionary play structure made entirely of fiberglass. No metal parts, no rust, no hot surfaces — designed for children aged 3–12 in schools, parks, and gated communities.",
+        ar: "هيكل لعب ثوري مصنوع بالكامل من الفيبر جلاس. لا أجزاء معدنية، لا صدأ، لا أسطح ساخنة — مصمم للأطفال من سن 3 إلى 12 عامًا في المدارس، الحدائق، والمجتمعات المغلقة.",
       },
       features: {
         en: [
-          "Rounded edges and child-safe grips for injury-free play",
-          "Bright, UV-resistant colors that won’t fade",
-          "All-fiberglass design — no metal, no rust, no burns",
-          "Easy-to-clean surface — always looks new",
+          "Rounded edges and soft grips prevent injuries",
+          "UV-stable pigments retain vibrant colors for over 10 years",
+          "100% fiberglass — no heat conduction, no electrical risk",
+          "Smooth surface resists graffiti and algae growth",
         ],
         ar: [
-          "حواف ناعمة ومقابض آمنة تمنع أي إصابة",
-          "ألوان زاهية مقاومة للأشعة فوق البنفسجية لا تبهت مع الوقت",
-          "مصنوع بالكامل من الفيبر جلاس — بدون معدن، بدون صدأ أو سخونة",
+          "حواف مدورة ومقابض ناعمة تمنع الإصابات",
+          "صبغات مستقرة ضد الأشعة فوق البنفسجية تحافظ على الألوان الزاهية لأكثر من 10 سنوات",
+          "100% فيبر جلاس — لا توصيل حراري، لا خطر كهربائي",
+          "سطح أملس يقاوم الكتابة والطحالب",
         ],
       },
       details: {
         dimensions: {
           en: "Custom sizes and designs available",
-          ar: "أحجام وتصاميم مخصصة متاحة حسب الطلب",
+          ar: "أحجام وتصاميم مخصصة متاحة",
         },
         materials: {
           en: "UV-resistant fiberglass with child-safe coating",
@@ -944,23 +948,25 @@ export const productsList = {
         "/products/Playground-Equipment/Fiberglass-playground.webp",
       ],
       title: {
-        en: "Techno Fiber Slide & Swing Set | Two-in-One Outdoor Fun",
-        ar: "زحليقة وأرجوحة من تكنو فيبر | لعب مزدوج في قطعة واحدة",
+        en: "Slide & Swing Combo Set | All-in-One Fiberglass Playground Equipment",
+        ar: "مجموعة زحليقة وأرجوحة متكاملة | معدات لعب فيبر جلاس شاملة",
       },
       description: {
-        en: "The ultimate play combo — a sturdy fiberglass slide and swing in one structure. Rust-free, weatherproof, and designed for endless safe fun.",
-        ar: "مجموعة لعب متكاملة — زحليقة وأرجوحة في لعبه واحده مصنوع من الفيبر جلاس. مقاوم للصدأ، يتحمل الطقس، ويوفر لعب آمن وممتع للأطفال.",
+        en: "A single, integrated structure combining a slide and swing — built for endless fun and zero maintenance. Perfect for nurseries, kindergartens, and community centers where space is limited.",
+        ar: "هيكل واحد متكامل يجمع بين الزحليقة والأرجوحة — مصمم للمرح المستمر وصفر صيانة. مثالي للحضانات، رياض الأطفال، ومراكز المجتمع حيث يكون المساحة محدودة.",
       },
       features: {
         en: [
-          "Smooth edges and ergonomic design for child safety",
-          "All-fiberglass build — no rust, no heat issues",
-          "Low-maintenance — just wipe and play",
+          "Smooth, curved slide path for gentle descent",
+          "Soft-touch swing seats with safety harnesses",
+          "All-fiberglass construction — no rust, no heat, no splinters",
+          "Easy to clean with just water and mild soap",
         ],
         ar: [
-          "تصميم ناعم وآمن يضمن سلامة الأطفال",
-          "مصنوع بالكامل من الفيبر جلاس — بدون صدأ أو سخونة",
-          "صيانة شبه معدومة — تنظيف سريع وسهل",
+          "مسار زحليقة منحني ناعم لهبوط لطيف",
+          "مقاعد أرجوحة ناعمة مع أحزمة أمان",
+          "هيكل كامل من فيبر جلاس — لا صدأ، لا حرارة، لا شظايا",
+          "سهل التنظيف بالماء والصابون الخفيف فقط",
         ],
       },
       details: {

@@ -8,7 +8,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- صفحات المنتجات -->
+  <!-- Industrial Products – Unique, High-Value Pages -->
   <url>
     <loc>https://www.technofiberegypt.com/products/grating/grating-1</loc>
     <lastmod>2025-09-13</lastmod>
@@ -39,12 +39,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://www.technofiberegypt.com/products/pultrusion/pultrusion-2</loc>
-    <lastmod>2025-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
+  <!-- Urban & Commercial Products -->
   <url>
     <loc>https://www.technofiberegypt.com/products/kiosks/kiosk-1</loc>
     <lastmod>2025-09-13</lastmod>
@@ -57,6 +53,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <!-- Infrastructure & Civil Works -->
   <url>
     <loc>https://www.technofiberegypt.com/products/manhole/manhole-1</loc>
     <lastmod>2025-09-13</lastmod>
@@ -81,16 +79,50 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://www.technofiberegypt.com/products/metro/metro-2</loc>
-    <lastmod>2025-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+
+  <!-- Tanks – Diverse Applications, High Priority -->
   <url>
     <loc>https://www.technofiberegypt.com/products/tanks/tank-1</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.technofiberegypt.com/products/tanks/tank-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.technofiberegypt.com/products/tanks/tank-3</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.technofiberegypt.com/products/tanks/tank-4</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.technofiberegypt.com/products/tanks/tank-5</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Playground – Niche Market with High Differentiation -->
+  <url>
+    <loc>https://www.technofiberegypt.com/products/playground/playground-1</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.technofiberegypt.com/products/playground/playground-2</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

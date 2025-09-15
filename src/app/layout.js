@@ -1,4 +1,4 @@
-// app/layout.js أو app/layout.tsx
+// app/layout.js
 
 import { NextIntlClientProvider } from "next-intl";
 import { cookies } from "next/headers";
@@ -11,14 +11,15 @@ const oswald = Oswald({ subsets: ["latin"], weight: ["400", "700"] });
 
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
+
 export async function generateMetadata() {
   const title =
     "TechnoFiber Company | الشركة الرائدة في منتجات فيبر جلاس (FRP)";
   const description =
     "TechnoFiber هي شركة رائدة متخصصة في تصنيع وتسويق منتجات فيبر جلاس (FRP) عالية الجودة والمتنوعة. الشركة تُعد الأولى في سوق الـ Moulded Grating في مصر، وتمتلك خط بولتروجين (Pultrusion Line) كامل لتصنيع مقاطع FRP كبدائل للحديد والألومنيوم.";
 
-  const url = "https://www.technofiberegypt.com"; // ✅ رابطك الحقيقي
-  const image = "https://www.technofiberegypt.com/images/og-image.jpg"; // ✅ غير للصورة الحقيقية
+  const url = "https://www.technofiberegypt.com"; // ✅ دومينك الرسمي
+  const image = "https://www.technofiberegypt.com/Fiberglass-logo.webp"; // ✅ غيّري للصورة المناسبة
 
   return {
     title,
@@ -78,7 +79,6 @@ export async function generateMetadata() {
         ar: "https://www.technofiberegypt.com/ar",
       },
     },
-    // ✅ favicon والأيقونات
     icons: {
       icon: [
         { url: "/Fiberglass-logo.webp", sizes: "32x32", type: "image/webp" },
@@ -116,15 +116,33 @@ export default async function RootLayout({ children }) {
       className={`${robotoSlab.className} ${oswald.className} h-full`}
     >
       <head>
-        {/* ✅ Favicon & Manifest - محدث باستخدام الشعار الجديد */}
+        {/* ✅ Favicon & Manifest */}
         <link rel="icon" href="/Fiberglass-logo.webp" type="image/webp" />
-        <link rel="shortcut icon" href="/Fiberglass-logo.webp" type="image/webp" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/Fiberglass-logo.webp" />
-        <link rel="icon" type="image/webp" sizes="32x32" href="/Fiberglass-logo.webp" />
-        <link rel="icon" type="image/webp" sizes="16x16" href="/Fiberglass-logo.webp" />
+        <link
+          rel="shortcut icon"
+          href="/Fiberglass-logo.webp"
+          type="image/webp"
+        />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/Fiberglass-logo.webp"
+        />
+        <link
+          rel="icon"
+          type="image/webp"
+          sizes="32x32"
+          href="/Fiberglass-logo.webp"
+        />
+        <link
+          rel="icon"
+          type="image/webp"
+          sizes="16x16"
+          href="/Fiberglass-logo.webp"
+        />
         <link rel="manifest" href="/site.webmanifest" />
 
-        {/* ✅ Structured Data (Organization + LocalBusiness + Contact Info) */}
+        {/* ✅ Structured Data */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -132,28 +150,38 @@ export default async function RootLayout({ children }) {
               {
                 "@context": "https://schema.org",
                 "@type": "Organization",
+                "@id": "https://www.technofiberegypt.com/#organization",
                 name: "TechnoFiber",
-                url: "https://www.technofiber.com",
-                logo: "https://www.technofiber.com/Fiberglass-logo.webp",
+                url: "https://www.technofiberegypt.com",
+                logo: "https://www.technofiberegypt.com/Fiberglass-logo.webp",
                 sameAs: [
                   "https://www.facebook.com/technofiber",
                   "https://www.linkedin.com/company/technofiber",
                 ],
+                contactPoint: {
+                  "@type": "ContactPoint",
+                  telephone: "+20-01005158566", 
+                  contactType: "customer service",
+                  areaServed: "EG",
+                  availableLanguage: ["Arabic", "English"],
+                },
               },
               {
                 "@context": "https://schema.org",
                 "@type": "LocalBusiness",
+                "@id": "https://www.technofiberegypt.com/#localbusiness",
                 name: "TechnoFiber",
-                image: "https://www.technofiber.com/Fiberglass-logo.webp",
-                url: "https://www.technofiber.com",
-                telephone: "+20-2-123456789", // غيّر برقمك الحقيقي
-                email: "info@technofiber.com", // غيّر بإيميلك
+                image:
+                  "https://www.technofiberegypt.com/Fiberglass-logo.webp",
+                url: "https://www.technofiberegypt.com",
+                telephone: "+20-01005158566", 
+                email: "info@technofiberegypt.com", 
                 address: {
                   "@type": "PostalAddress",
-                  streetAddress: "123 شارع رئيسي",
-                  addressLocality: "القاهرة",
-                  addressRegion: "القاهرة",
-                  postalCode: "11511",
+                  streetAddress: "123 Industrial Zone",
+                  addressLocality: "Cairo",
+                  addressRegion: "Cairo",
+                  postalCode: "12511",
                   addressCountry: "EG",
                 },
                 openingHours: "Su-Th 09:00-17:00",
@@ -161,11 +189,16 @@ export default async function RootLayout({ children }) {
               },
               {
                 "@context": "https://schema.org",
-                "@type": "ContactPoint",
-                telephone: "+20-2-123456789", // نفس الرقم
-                contactType: "customer service",
-                areaServed: "EG",
-                availableLanguage: ["Arabic", "English"],
+                "@type": "WebSite",
+                "@id": "https://www.technofiberegypt.com/#website",
+                url: "https://www.technofiberegypt.com",
+                name: "TechnoFiber",
+                potentialAction: {
+                  "@type": "SearchAction",
+                  target:
+                    "https://www.technofiberegypt.com/search?q={search_term_string}",
+                  "query-input": "required name=search_term_string",
+                },
               },
             ]),
           }}

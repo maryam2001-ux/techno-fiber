@@ -119,12 +119,12 @@ export default function ProductsPage() {
   const t = useTranslations("Products");
 
   // ✅ بناء JSON-LD ItemList ديناميكي
-  const allProducts = Object.values(sections).flat();
+ const allProducts = Object.values(sections).flat();
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: "Fiberglass Products",
-    url: "https://www.technofiber.com/products",
+    url: "https://www.technofiberegypt.com/products",
     description:
       "High-quality fiberglass products for industrial, civil, and urban use.",
     itemListElement: allProducts.map((slug, index) => {
@@ -133,7 +133,20 @@ export default function ProductsPage() {
         "@type": "Product",
         position: index + 1,
         name: t(`products.${sectionSlug}.items.${slug}.title`),
-        url: `https://www.technofiber.com/products/${slug}`,
+        description: t(`products.${sectionSlug}.items.${slug}.brief`),
+        url: `https://www.technofiberegypt.com/products/${slug}`,
+        image: `https://www.technofiberegypt.com${productImages[slug]}`,
+        category: sectionSlug,
+        brand: {
+          "@type": "Brand",
+          name: "TechnoFiber",
+        },
+        offers: {
+          "@type": "Offer",
+          priceCurrency: "LE",
+          price: "0.00", 
+          availability: "https://schema.org/InStock",
+        },
       };
     }),
   };
