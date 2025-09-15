@@ -143,7 +143,7 @@ export default function ProductsPage() {
         },
         offers: {
           "@type": "Offer",
-          priceCurrency: "LE",
+          priceCurrency: "EGP",
           price: "0.00", 
           availability: "https://schema.org/InStock",
         },
