@@ -120,38 +120,13 @@ export default function ProductSlugPage() {
     t(`categories.${productSlug}.title`) || t("categories.default.title");
 
 
-     const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: categoryTitle,
-    url: `https://www.technofiber.com/products/${productSlug}`,
-    description: t("heroSubtitle"),
-    mainEntity: {
-      "@type": "ItemList",
-      name: `${categoryTitle} - Fiberglass Products`,
-      itemListElement: products.map((product, index) => ({
-        "@type": "Product",
-        position: index + 1,
-        name: t(`categories.${product.slug}.title`),
-        url: `https://www.technofiber.com/products/${productSlug}/${product.slug}`,
-        image: `https://www.technofiber.com${product.img}`,
-        description: t(`categories.${product.slug}.items.desc`),
-      })),
-    },
-  };
 
   return (
     <section
       className="py-12 sm:py-16 md:py-20 bg-gradient-to-b from-white to-[var(--grey-light)] min-h-screen"
       aria-labelledby="category-title"
     >
-      <Script
-        id="category-structured-data"
-        type="application/ld+json"
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
-      />
-
+    
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 xl:px-10 max-w-7xl">
         {/* الهيدر */}
         <motion.header
@@ -246,6 +221,33 @@ export default function ProductSlugPage() {
           </div>
         </motion.section>
       </div>
+
+
+        <Script
+  id="product-slug-schema"
+  type="application/ld+json"
+  strategy="afterInteractive"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: categoryTitle,
+      itemListElement: products.map((product, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: `https://www.technofiberegypt.com/products/${productSlug}/${product.slug}`,
+        item: {
+          "@type": "Product",
+          name: t(`categories.${product.slug}.title`),
+          image: `https://www.technofiberegypt.com${product.img}`,
+          description: t(`categories.${product.slug}.items.desc`),
+        },
+      })),
+    }),
+  }}
+/>
+
+
     </section>
   );
 }

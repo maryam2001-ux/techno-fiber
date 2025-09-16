@@ -7,6 +7,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useLocale } from "next-intl";
 import { useTranslations } from "next-intl";
+import Head from "next/head";
 
 // ✅ بيانات المنتجات
 import { productsList } from "@/data/productsList";
@@ -140,6 +141,44 @@ export default function ProductItemClient() {
 
   return (
     <>
+
+
+   <Head>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org/",
+            "@type": "Product",
+            name: product.title,
+            description: product.desc,
+            image: product.gallery, // array of images
+            sku: itemSlug,
+            brand: {
+              "@type": "Brand",
+              name: "Techno Fiber", // 👈 غيريها باسم الشركة بتاعتك
+            },
+            offers: {
+              "@type": "Offer",
+              url: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`,
+              priceCurrency: "EGP", 
+              price: "0.00",
+              availability: "https://schema.org/InStock",
+            },
+            additionalProperty: Object.entries(product.details || {}).map(
+              ([key, value]) => ({
+                "@type": "PropertyValue",
+                name: key,
+                value: value,
+              })
+            ),
+          }),
+        }}
+      />
+    </Head>
+
+
+
       {/* SECTION 1: Product Overview */}
       <section className="bg-white border-b border-gray-200">
         <div className="container mx-auto px-4 sm:px-6 md:px-12 py-12 sm:py-16">
