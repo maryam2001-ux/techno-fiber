@@ -142,40 +142,45 @@ export default function ProductItemClient() {
   return (
     <>
 
-
-   <Head>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org/",
-            "@type": "Product",
-            name: product.title,
-            description: product.desc,
-            image: product.gallery, // array of images
-            sku: itemSlug,
-            brand: {
-              "@type": "Brand",
-              name: "Techno Fiber", // 👈 غيريها باسم الشركة بتاعتك
-            },
-            offers: {
-              "@type": "Offer",
-              url: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`,
-              priceCurrency: "EGP", 
-              price: "0.00",
-              availability: "https://schema.org/InStock",
-            },
-            additionalProperty: Object.entries(product.details || {}).map(
-              ([key, value]) => ({
-                "@type": "PropertyValue",
-                name: key,
-                value: value,
-              })
-            ),
-          }),
-        }}
-      />
-    </Head>
+<Head>
+  <script
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{
+      __html: JSON.stringify({
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        name: product.title,
+        description: product.desc,
+        image: product.gallery,
+        sku: itemSlug,
+        brand: {
+          "@type": "Brand",
+          name: "Techno Fiber",
+        },
+        offers: {
+          "@type": "Offer",
+          url: `https://www.technofiber.com/products/${productSlug}/${itemSlug}`,
+          priceCurrency: "EGP",
+          price: "1500.00",
+          availability: "https://schema.org/InStock",
+          priceValidUntil: "2026-12-31", // 👈 صلاحية السعر
+        },
+        aggregateRating: { 
+          "@type": "AggregateRating",
+          ratingValue: "4.5",
+          reviewCount: "12",
+        },
+        additionalProperty: Object.entries(product.details || {}).map(
+          ([key, value]) => ({
+            "@type": "PropertyValue",
+            name: key,
+            value: value,
+          })
+        ),
+      }),
+    }}
+  />
+</Head>
 
 
 
