@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.2.0",
     "framer-motion": "^12.23.12",
     "hero-patterns": "^2.1.0",
     "intlayer": "^5.8.1",

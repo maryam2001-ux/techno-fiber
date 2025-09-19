@@ -4,6 +4,8 @@ import { NextIntlClientProvider } from "next-intl";
 import { cookies } from "next/headers";
 import { locales, defaultLocale } from "../i18n";
 import { Roboto_Slab, Oswald } from "next/font/google";
+import { SpeedInsights } from '@vercel/speed-insights/next';
+
 import "./globals.css";
 
 const robotoSlab = Roboto_Slab({ subsets: ["latin"], weight: ["400", "700"] });
@@ -212,6 +214,8 @@ export default async function RootLayout({ children }) {
             <Footer />
           </div>
         </NextIntlClientProvider>
+          n<SpeedInsights />
+
       </body>
     </html>
   );
