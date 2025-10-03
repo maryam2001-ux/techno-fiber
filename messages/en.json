@@ -169,7 +169,8 @@
     "generalContact": {
       "title": "General Contacts",
       "email": "info@technofiberegypt.com",
-      "whatsapp": "+(20) 10 67032423 | 10 16997477 (WhatsApp for Orders)",
+"whatsappInquiries": "WhatsApp for Inquiries",
+"whatsappOrders": "WhatsApp for Orders",
       "management": "+(20) 01005158566 (Management)"
     },
     "map": {
@@ -535,9 +536,12 @@
       "desc": "Our products are manufactured according to international standards..."
     },
     "contactPrompt": "Need more information? Contact us today!",
-    "contactPhone": "010 67032423 | 010 16997477",
+"contactPhone1": "01067032423",
+"contactPhone2": "01016997477",
+"contactPhoneLabel1": "010 67032423",
+"contactPhoneLabel2": "010 16997477",
     "contactEmail": "info@technofiberegypt.com",
-    "contactLocation": "Industrial Area, Plot 403, Third Section, 6th of October City, Giza"
+    "contactLocation": "Industrial Area, Third Section, 6th of October City, Giza"
   },
 
   "Footer": {

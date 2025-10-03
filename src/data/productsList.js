@@ -21,21 +21,21 @@ export const productsList = {
       features: {
         en: [
           "Non-slip textured surface for maximum safety",
-          "Lightweight yet supports heavy loads up to 500 kg/m²",
+          "Lightweight yet supports heavy loads ",
           "Resists acids, alkalis, saltwater, and industrial chemicals",
           "Easy to install and cut on-site without special tools",
         ],
         ar: [
           "سطح نسيجي مقاوم للانزلاق لأقصى درجة أمان",
-          "خفيف الوزن مع قدرة تحمل تصل إلى 500 كجم/م²",
+          "خفيف الوزن مع قدرة تحمل عالية للأحمال",
           "مقاوم للأحماض، القلويات، المياه المالحة، والمواد الكيميائية الصناعية",
           "سهل التركيب والقص في الموقع دون أدوات متخصصة",
         ],
       },
       details: {
         dimensions: {
-          en: "38mm x 38mm x 25mm or (50mm x 50mm x 50mm)",
-          ar: "38 مم × 38 مم × 25 مم أو (50 مم × 50 مم × 50 مم)",
+          en: "38mm x 38mm x 38mm or (50mm x 50mm x 50mm)",
+          ar: "38 مم × 38 مم × 38 مم أو (50 مم × 50 مم × 50 مم)",
         },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
@@ -63,11 +63,11 @@ export const productsList = {
       documents: [{ name: "Datasheet", link: "/docs/grating2-datasheet.pdf" }],
       title: {
         en: "Heavy-Duty FRP Chequer Plates | For Oil & Gas, Marine & High-Traffic Zones",
-        ar: "ألواح شكر FRP ثقيلة | للمناطق النفطية، البحرية، والأحمال العالية",
+        ar: " ألواح شكر بليت FRP ثقيلة | للمناطق النفطية، البحرية، والأحمال العالية",
       },
       description: {
-        en: "Engineered for extreme environments: oil rigs, marine terminals, and high-risk industrial zones. Rated Load Class D, UV-stabilized, non-conductive, and 100% rust-free — the ultimate replacement for steel grating.",
-        ar: "مصممة للبيئات القاسية: منصات النفط، الموانئ البحرية، والمناطق الصناعية عالية الخطورة. مصنفة بفئة الحمل D، مقاومة للأشعة فوق البنفسجية، غير موصلة للكهرباء، وخالية تمامًا من الصدأ — البديل الأمثل عن المشايات المعدنية.",
+        en: "Engineered for extreme environments: oil rigs, marine terminals, and industrial zones and 100% rust-free — the ultimate replacement for steel grating.",
+        ar: "مصممة للبيئات القاسية: منصات النفط، الموانئ البحرية، والمناطق الصناعية غير موصلة للكهرباء، وخالية تمامًا من الصدأ — البديل الأمثل عن المشايات المعدنية.",
       },
       features: {
         en: [
@@ -84,7 +84,7 @@ export const productsList = {
         ],
       },
       details: {
-        dimensions: { en: "38mm x 38mm x 25mm", ar: "38 مم × 38 مم × 25 مم" },
+        dimensions: { en: "38mm x 38mm x 25mm", ar: "38 مم × 38 مم × 38 مم" },
         materials: {
           en: "Fiberglass Reinforced Plastic (FRP)",
           ar: "بوليستر مقوى بالألياف الزجاجية (FRP)",
@@ -94,8 +94,8 @@ export const productsList = {
           ar: "مرافق النفط والغاز، الأرصفة البحرية، مصانع التكرير، مناطق الآلات الثقيلة",
         },
         standards: {
-          en: "Load Class D, ISO 9001",
-          ar: "فئة الحمل D، ISO 9001",
+          en: " ISO 9001",
+          ar: " ISO 9001",
         },
         warranty: { en: "10 years", ar: "10 سنوات" },
         installation: {
@@ -174,19 +174,17 @@ export const productsList = {
         ar: "هاندريلات FRP مدعمة للتطبيقات الصناعية والبحرية | أشكال دائرية ومربعة",
       },
       description: {
-        en: "Built for harsh conditions: offshore platforms, wastewater plants, and chemical storage areas. Engineered with thicker walls and reinforced joints for superior strength and longevity under constant exposure.",
-        ar: "مصممة للظروف القاسية: المنصات البحرية، محطات معالجة الصرف الصحي، ومناطق تخزين المواد الكيميائية. مُهندسة بجدران أسمك ووصلات مدعمة لقوة واستقرار أعلى تحت التعرض المستمر.",
+        en: "Built for harsh conditions: offshore platforms, wastewater plants, and chemical storage areas.",
+        ar: "مصممة للظروف القاسية: المنصات البحرية، محطات معالجة الصرف الصحي، ومناطق تخزين المواد الكيميائية.",
       },
       features: {
         en: [
-          "Enhanced structural integrity with double-wall reinforcement",
           "Ideal for salt-laden air and corrosive fumes",
           "Smooth finish prevents accumulation of dirt and bacteria",
           "Available in round and square profiles for flexible design",
         ],
         ar: [
-          "متانة هيكلية محسنة بتعزيز بجدارين",
-          "مثالية للهواء المالح والروائح المسببة للتآكل",
+          "مثالية للهواء المالح المسببة للتآكل",
           "سطح أملس يمنع تراكم الأوساخ والبكتيريا",
           "متوفر بأشكال دائرية ومربعة لمرونة في التصميم",
         ],
@@ -226,8 +224,8 @@ export const productsList = {
         ar: "قطاعات بولتروجن مخصصة من FRP | استبدل الصلب والألومنيوم في الهياكل الإنشائية",
       },
       description: {
-        en: "Egypt’s first fully operational pultrusion line. We produce precision-engineered FRP sections — I-beams, angles, channels, tubes — that outperform traditional metals in weight, corrosion resistance, and lifecycle cost.",
-        ar: "أول خط بولتروجن كامل في مصر. ننتج قطاعات FRP بدقة هندسية عالية — زوايا، مواسير، أشعة على شكل I — تتفوق على المعادن التقليدية في الوزن، مقاومة التآكل، وتكلفة دورة الحياة.",
+        en: "Egypt’s first fully operational pultrusion line. We produce precision-engineered FRP sections , angles, channels, tubes — that outperform traditional metals in weight, corrosion resistance, and lifecycle cost.",
+        ar: "أول خط بولتروجن كامل في مصر. ننتج قطاعات FRP بدقة هندسية عالية — زوايا، مواسير، على شكل I — تتفوق على المعادن التقليدية في الوزن، مقاومة التآكل، وتكلفة دورة الحياة.",
       },
       features: {
         en: [
@@ -245,8 +243,8 @@ export const productsList = {
       },
       details: {
         dimensions: {
-          en: "Various cross-sections: I-Beam, Channel, Angle, Tube",
-          ar: "مقاطع متنوعة: شعاع I، قناة، زاوية، أنبوب",
+          en: "All sizes available — custom profiles upon request",
+          ar: "جميع المقاسات متاحة — أشكال مخصصة حسب الطلب",
         },
         materials: { en: "FRP Pultrusion", ar: "بولتروجن FRP" },
         applications: {
@@ -256,8 +254,8 @@ export const productsList = {
         standards: { en: "ISO 9001, EN 13706", ar: "ISO 9001, EN 13706" },
         warranty: { en: "5 years", ar: "5 سنوات" },
         installation: {
-          en: "Cut and drill on-site — compatible with standard fasteners",
-          ar: "قص وحفر في الموقع — متوافقة مع مثبتات قياسية",
+          en: "compatible with standard fasteners",
+          ar: " تركيب سريع في الموقع — متوافقة مع مثبتات قياسية",
         },
       },
     },
@@ -273,8 +271,8 @@ export const productsList = {
         "/products/kishok/Fiberglass-kishok-4.webp",
       ],
       title: {
-        en: "FRP Security Guard Kiosk | Weatherproof Shelter for 24/7 Operations",
-        ar: "كابينة حراسة من FRP | ملجأ مقاوم للطقس للتشغيل على مدار الساعة",
+        en: "FRP Security Guard Kiosk | Round & Square Options",
+        ar: "كابينة حراسة من FRP | دائري ومربع  ",
       },
       description: {
         en: "The ultimate solution for security posts in factories, gated communities, and resorts. Built with thermal insulation, impact-resistant FRP, and large windows for full visibility — designed for comfort and deterrence.",
@@ -284,20 +282,18 @@ export const productsList = {
         en: [
           "Thermal insulation maintains comfortable internal temperature",
           "UV-stabilized FRP surface resists fading and cracking",
-          "Large panoramic windows for 360° surveillance",
           "Fully customizable: colors, logos, ventilation, lighting",
         ],
         ar: [
           "عزل حراري يحافظ على درجة حرارة داخلية مريحة",
           "سطح FRP مستقر ضد الأشعة فوق البنفسجية يقاوم التلاشي والتشقق",
-          "نوافذ بانورامية واسعة لمراقبة 360°",
           "قابلة للتخصيص الكامل: ألوان، شعارات، تهوية، إضاءة",
         ],
       },
       details: {
         dimensions: {
           en: "Standard 1.5m x 1.5m x 2.5m (Customizable)",
-          ar: "المقاس القياسي 1.5م × 1.5م × 2.5م (قابل للتخصيص)",
+          ar: "المقاس القياسي 1.5م × 1.5م × 2.5م (قابل للتخصيص - يصمم علي حسب الطلب )",
         },
         materials: {
           en: "High-quality Fiberglass Reinforced Plastic (FRP)",
@@ -388,6 +384,7 @@ export const productsList = {
         "/products/manhole-cover/Fiberglass-manhole-cover.webp ",
         "/products/manhole-cover/Fiberglass-manhole-cover-5.webp ",
         "/products/manhole-cover/Fiberglass-manhole-cover-10.webp",
+        "/products/manhole-cover/Fiberglass-manhole-cover-11.webp",
       ],
       title: {
         en: "Lightweight FRP Manhole Cover | Safe, Theft-Resistant & Non-Conductive",
@@ -413,8 +410,8 @@ export const productsList = {
       },
       details: {
         dimensions: {
-          en: "Custom sizes available — from 300mm to 1200mm diameter",
-          ar: "مقاسات مخصصة متاحة — من 300 مم إلى 1200 مم قطر",
+          en: "All sizes available — custom profiles upon request",
+          ar: "جميع المقاسات متاحة — أشكال مخصصة حسب الطلب",
         },
         materials: {
           en: "FRP (Fiberglass Reinforced Plastic)",
@@ -454,13 +451,13 @@ export const productsList = {
       },
       features: {
         en: [
-          "Load capacity up to 90 kN — suitable for trucks and heavy equipment",
+          " high Load capacity  — suitable for trucks and heavy equipment",
           "Chemical-resistant resin protects against acids and solvents",
           "Non-sparking surface — safe in explosive environments",
           "Perforated design allows rapid water flow",
         ],
         ar: [
-          "قدرة تحمل تصل إلى 90 كيلونيوتن — مناسبة للشاحنات والمعدات الثقيلة",
+          "قدرة تحمل عاليه — مناسبة للشاحنات والمعدات الثقيلة",
           "راتنج مقاوم للكيماويات يحمي من الأحماض والمذيبات",
           "سطح غير مولد للشرر — آمن في البيئات الانفجارية",
           "تصميم مثقوب يسمح بتدفق سريع للمياه",

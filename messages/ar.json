@@ -168,7 +168,8 @@
     "generalContact": {
       "title": "جهات الاتصال العامة",
       "email": "info@technofiberegypt.com",
-      "whatsapp": "+( 20 )  10 67032423 | 10 16997477  (واتساب للطلبات)",
+"whatsappInquiries": "واتساب للاستفسارات",
+"whatsappOrders": "واتساب للطلبات",
       "management": "+(20) 01005158566 (الإدارة)"
     },
     "map": {
@@ -537,9 +538,12 @@
       "desc": "تصنع منتجاتنا وفقًا للمعايير الدولية..."
     },
     "contactPrompt": "تحتاج لمزيد من المعلومات؟ تواصل معنا اليوم!",
-    "contactPhone": "010 67032423 | 010 16997477",
+"contactPhone1": "01067032423",
+"contactPhone2": "01016997477",
+"contactPhoneLabel1": "010 67032423",
+"contactPhoneLabel2": "010 16997477",
     "contactEmail": "info@technofiberegypt.com",
-    "contactLocation": "المنطقة الصناعية على القطعة الثالثة 403، مدينة 6 أكتوبر، الجيزة"
+    "contactLocation": "المنطقة الصناعية الثالثة مدينة 6 أكتوبر، الجيزة"
   },
 
   "Footer": {

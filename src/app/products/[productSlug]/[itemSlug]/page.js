@@ -385,83 +385,91 @@ export default function ProductItemClient() {
         </div>
       </section>
 
-      {/* SECTION 3: Contact CTA */}
-      <section className="py-16 sm:py-20 bg-gradient-to-br from-[var(--color-primary)] to-[var(--color-primary)]/90 text-white">
-        <div className="container mx-auto px-4 sm:px-6 md:px-12 text-center">
-          <motion.div
-            initial={{ opacity: 0, y: 40 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.7 }}
-            className="max-w-4xl mx-auto space-y-6 sm:space-y-8"
+    {/* SECTION 3: Contact CTA */}
+<section className="py-16 sm:py-20 bg-gradient-to-br from-[var(--color-primary)] to-[var(--color-primary)]/90 text-white">
+  <div className="container mx-auto px-4 sm:px-6 md:px-12 text-center">
+    <motion.div
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.7 }}
+      className="max-w-4xl mx-auto space-y-6 sm:space-y-8"
+    >
+      {/* Title */}
+      <div className="space-y-3 sm:space-y-4">
+        <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight">
+          {t("contactPrompt")}
+        </h2>
+        <div className="h-1 w-16 sm:w-20 bg-white/40 mx-auto rounded-full"></div>
+      </div>
+
+      {/* Contact Cards */}
+      <div className="grid md:grid-cols-3 gap-4 sm:gap-6 mt-8 sm:mt-10">
+        {/* Phone */}
+        <motion.div
+          whileHover={{ scale: 1.05, y: -5 }}
+          className="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-5 sm:p-6 border border-white/20 hover:bg-white/20 transition-all duration-300"
+        >
+          <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4">
+            <span className="text-xl sm:text-2xl" aria-hidden="true">📞</span>
+          </div>
+          <h3 className="font-semibold text-base sm:text-lg mb-2">
+            {locale === "ar" ? "الهاتف" : "Phone"}
+          </h3>
+          <div className="space-y-2">
+            <a
+              href="tel:+201067032423"
+              className="block text-white hover:text-white/90 transition-colors font-medium text-base sm:text-lg py-1"
+            >
+              +20 10 67032423
+            </a>
+            <a
+              href="tel:+201016997477"
+              className="block text-white hover:text-white/90 transition-colors font-medium text-base sm:text-lg py-1"
+            >
+              +20 10 16997477
+            </a>
+          </div>
+        </motion.div>
+
+        {/* Email */}
+        <motion.div
+          whileHover={{ scale: 1.05, y: -5 }}
+          className="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-5 sm:p-6 border border-white/20 hover:bg-white/20 transition-all duration-300"
+        >
+          <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4">
+            <span className="text-xl sm:text-2xl" aria-hidden="true">✉️</span>
+          </div>
+          <h3 className="font-semibold text-base sm:text-lg mb-2">
+            {locale === "ar" ? "البريد الإلكتروني" : "Email"}
+          </h3>
+          <a
+            href={`mailto:${t("contactEmail")}`}
+            className="block text-white hover:text-white/90 transition-colors font-medium text-base sm:text-lg break-words"
           >
-            {/* Title */}
-            <div className="space-y-3 sm:space-y-4">
-              <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold tracking-tight">
-                {t("contactPrompt")}
-              </h2>
-              <div className="h-1 w-16 sm:w-20 bg-white/40 mx-auto rounded-full"></div>
-            </div>
+            {t("contactEmail")}
+          </a>
+        </motion.div>
 
-            {/* Contact Cards */}
-            <div className="grid md:grid-cols-3 gap-4 sm:gap-6 mt-8 sm:mt-10">
-              {/* Phone */}
-              <motion.div
-                whileHover={{ scale: 1.05, y: -5 }}
-                className="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-5 sm:p-6 border border-white/20 hover:bg-white/20 transition-all duration-300"
-              >
-                <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4">
-                  <span className="text-xl sm:text-2xl" aria-hidden="true">📞</span>
-                </div>
-                <h3 className="font-semibold text-base sm:text-lg mb-2">
-                  {locale === "ar" ? "الهاتف" : "Phone"}
-                </h3>
-                <a
-                  href={`tel:${t("contactPhone")}`}
-                  className="block text-white hover:text-white/90 transition-colors font-medium text-base sm:text-lg"
-                >
-                  {t("contactPhone")}
-                </a>
-              </motion.div>
-
-              {/* Email */}
-              <motion.div
-                whileHover={{ scale: 1.05, y: -5 }}
-                className="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-5 sm:p-6 border border-white/20 hover:bg-white/20 transition-all duration-300"
-              >
-                <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4">
-                  <span className="text-xl sm:text-2xl" aria-hidden="true">✉️</span>
-                </div>
-                <h3 className="font-semibold text-base sm:text-lg mb-2">
-                  {locale === "ar" ? "البريد الإلكتروني" : "Email"}
-                </h3>
-                <a
-                  href={`mailto:${t("contactEmail")}`}
-                  className="block text-white hover:text-white/90 transition-colors font-medium text-base sm:text-lg break-words"
-                >
-                  {t("contactEmail")}
-                </a>
-              </motion.div>
-
-              {/* Location */}
-              <motion.div
-                whileHover={{ scale: 1.05, y: -5 }}
-                className="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-5 sm:p-6 border border-white/20 hover:bg-white/20 transition-all duration-300"
-              >
-                <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4">
-                  <span className="text-xl sm:text-2xl" aria-hidden="true">📍</span>
-                </div>
-                <h3 className="font-semibold text-base sm:text-lg mb-2">
-                  {locale === "ar" ? "الموقع" : "Location"}
-                </h3>
-                <p className="text-white/90 font-medium text-base sm:text-lg hyphens-auto">
-                  {t("contactLocation")}
-                </p>
-              </motion.div>
-            </div>
-          </motion.div>
-        </div>
-      </section>
+        {/* Location */}
+        <motion.div
+          whileHover={{ scale: 1.05, y: -5 }}
+          className="bg-white/10 backdrop-blur-sm rounded-xl sm:rounded-2xl p-5 sm:p-6 border border-white/20 hover:bg-white/20 transition-all duration-300"
+        >
+          <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 sm:mb-4">
+            <span className="text-xl sm:text-2xl" aria-hidden="true">📍</span>
+          </div>
+          <h3 className="font-semibold text-base sm:text-lg mb-2">
+            {locale === "ar" ? "الموقع" : "Location"}
+          </h3>
+          <p className="text-white/90 font-medium text-base sm:text-lg hyphens-auto">
+            {t("contactLocation")}
+          </p>
+        </motion.div>
+      </div>
+    </motion.div>
+  </div>
+</section>
     </>
   );
 }
