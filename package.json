@@ -9,7 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@vercel/speed-insights": "^1.2.0",
     "framer-motion": "^12.23.12",
     "hero-patterns": "^2.1.0",
     "intlayer": "^5.8.1",
@@ -25,6 +24,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@netlify/plugin-nextjs": "^5.13.4",
     "@tailwindcss/postcss": "^4.1.12",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",

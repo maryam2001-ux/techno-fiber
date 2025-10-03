@@ -4,7 +4,6 @@ import { NextIntlClientProvider } from "next-intl";
 import { cookies } from "next/headers";
 import { locales, defaultLocale } from "../i18n";
 import { Roboto_Slab, Oswald } from "next/font/google";
-import { SpeedInsights } from '@vercel/speed-insights/next';
 
 import "./globals.css";
 

@@ -20,14 +20,14 @@ export const productsList = {
       },
       features: {
         en: [
-          "Non-slip textured surface for maximum safety",
+          "Non-slip  surface for maximum safety",
           "Lightweight yet supports heavy loads ",
           "Resists acids, alkalis, saltwater, and industrial chemicals",
           "Easy to install and cut on-site without special tools",
         ],
         ar: [
-          "سطح نسيجي مقاوم للانزلاق لأقصى درجة أمان",
-          "خفيف الوزن مع قدرة تحمل عالية للأحمال",
+          "سطح  مقاوم للانزلاق لأقصى درجة أمان",
+          "  خفيف الوزن مع قدرة تحمل عالية للأحمال تصل الي طن متر مربع",
           "مقاوم للأحماض، القلويات، المياه المالحة، والمواد الكيميائية الصناعية",
           "سهل التركيب والقص في الموقع دون أدوات متخصصة",
         ],
@@ -46,7 +46,7 @@ export const productsList = {
           ar: "الأرضيات الصناعية، المصانع الكيماوية، الممرات، أغطية الصرف",
         },
         standards: { en: "ASTM E-84, ISO 9001", ar: "ASTM E-84, ISO 9001" },
-        warranty: { en: "5 years", ar: "5 سنوات" },
+        warranty: { en: "2 years", ar: "2 سنوات" },
         installation: {
           en: "Professional installation available with stainless steel fasteners",
           ar: "تركيب احترافي متاح باستخدام مثبتات من الستانلس ستيل",
@@ -78,7 +78,7 @@ export const productsList = {
         ],
         ar: [
           "مُحسّنة للأسطح الزيتية والرطبة والانزلاقية",
-          "طلاء مقاوم للأشعة فوق البنفسجية يحافظ على اللون لسنوات",
+          "طلاء مقاوم للأشعة يحافظ على اللون لسنوات",
           "عازلة كهربائيًا — آمنة بالقرب من المحولات وكابلات الطاقة",
           "ألواح معيارية تسمح بالإصلاح السريع والاستبدال الفوري",
         ],
@@ -97,7 +97,7 @@ export const productsList = {
           en: " ISO 9001",
           ar: " ISO 9001",
         },
-        warranty: { en: "10 years", ar: "10 سنوات" },
+        warranty: { en: "1 to 2  years", ar: " سنه ضمان " },
         installation: {
           en: "Mechanical fixing using corrosion-resistant stainless steel clips",
           ar: "تثبيت ميكانيكي باستخدام مشابك من الستانلس ستيل المقاومة للتآكل",
@@ -151,7 +151,7 @@ export const productsList = {
           en: "OSHA Compliant, ISO 9001",
           ar: "متوافق مع OSHA ومعايير ISO 9001",
         },
-        warranty: { en: "5 years", ar: "5 سنوات" },
+        warranty: { en: "3 years", ar: "3 سنوات" },
         installation: {
           en: "Prefabricated modules for quick assembly with minimal labor",
           ar: "وحدات مسبقة الصنع للتجميع السريع بأقل جهد بشري",
@@ -200,7 +200,7 @@ export const productsList = {
           ar: "النفط والغاز، معالجة الصرف، البحرية، الصناعة الثقيلة",
         },
         standards: { en: "ISO 9001", ar: "متوافق مع ISO 9001" },
-        warranty: { en: "5 years", ar: "5 سنوات" },
+        warranty: { en: "3 - 4 years", ar: "3 - 4 سنوات" },
         installation: {
           en: "Prefabricated modules with bolted connections for rapid deployment",
           ar: "وحدات مسبقة الصنع بتوصيلات مفكّة للتثبيت السريع",
@@ -252,7 +252,7 @@ export const productsList = {
           ar: "إطارات إنشائية، صناديق الكابلات، الدعامات، المنصات، السلم",
         },
         standards: { en: "ISO 9001, EN 13706", ar: "ISO 9001, EN 13706" },
-        warranty: { en: "5 years", ar: "5 سنوات" },
+        warranty: { en: "2 years", ar: "2 سنوات" },
         installation: {
           en: "compatible with standard fasteners",
           ar: " تركيب سريع في الموقع — متوافقة مع مثبتات قياسية",
@@ -426,8 +426,8 @@ export const productsList = {
           ar: "معتمد وفق EN 124 فئة B125",
         },
         warranty: {
-          en: "5 years against manufacturing defects",
-          ar: "ضمان 5 سنوات ضد عيوب الصناعة",
+          en: "2 years against manufacturing defects",
+          ar: "ضمان 2 سنوات ضد عيوب الصناعة",
         },
         installation: {
           en: "Compatible with standard frames — direct drop-in replacement",
@@ -481,8 +481,8 @@ export const productsList = {
           ar: "معتمد وفق EN 124 فئة D400",
         },
         warranty: {
-          en: "5 years against manufacturing defects",
-          ar: "ضمان 5 سنوات ضد عيوب الصناعة",
+          en: "2 years against manufacturing defects",
+          ar: "ضمان 2  سنوات ضد عيوب الصناعة",
         },
         installation: {
           en: "Installed with locking frame or embedded anchoring system",
@@ -539,7 +539,6 @@ export const productsList = {
           en: "Food Safe Materials, ISO 9001",
           ar: "مواد آمنة غذائيًا، ISO 9001",
         },
-        warranty: { en: "3 years", ar: "3 سنوات" },
         installation: {
           en: "Universal mounting brackets for motorcycles & scooters",
           ar: "دعائم تركيب عالمية للدراجات النارية والسكوترز",
@@ -597,8 +596,8 @@ export const productsList = {
           ar: "سلامة الحريق EN 45545، جودة ISO 9001",
         },
         warranty: {
-          en: "5 years against manufacturing defects",
-          ar: "ضمان 5 سنوات ضد عيوب الصناعة",
+          en: "3 years against manufacturing defects",
+          ar: "ضمان 3 سنوات ضد عيوب الصناعة",
         },
         installation: {
           en: "Factory-fitted or on-site assembly",
@@ -928,8 +927,8 @@ export const productsList = {
           ar: "مطابق لمعيار السلامة الأوروبية EN 1176 وISO 9001",
         },
         warranty: {
-          en: "7 years",
-          ar: "7 سنوات",
+          en: "2 years",
+          ar: "2 سنوات",
         },
         installation: {
           en: "On-site installation with safe anchoring",
@@ -984,8 +983,8 @@ export const productsList = {
           ar: "مطابق لمعيار EN 1176 الأوروبي للسلامة وISO 9001",
         },
         warranty: {
-          en: "7 years",
-          ar: "7 سنوات",
+          en: "2 years",
+          ar: "2 سنوات",
         },
         installation: {
           en: "Professional installation with secure fixing",
